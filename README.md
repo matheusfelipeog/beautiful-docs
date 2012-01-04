@@ -11,7 +11,7 @@ This should be updated fairly regularly. As usual, **pull requests are encourage
 ### And Now For The Docs (in no particular)
 
 * [Redis Commands](http://redis.io/commands) - Most of the Redis docs are exceptional, but this section really epitomizes the combination of good design and usability. And all the individual command pages give you the ability to test things out without leaving the page. Pretty close to perfect.
-* [BrightBox Devloper Docs](docs.brightbox.com) - Clean design, easy to navigate, very in-depth.   
+* [BrightBox Developer Docs](docs.brightbox.com) - Clean design, easy to navigate, very in-depth.   
 * [Riaknostic](riaknostic.basho.com) - Made possible by [Bootstrap](https://github.com/twitter/bootstrap), this is a great example of a project homepage that doubles as a documentation teaser. 
 * [GitHub Developer Docs](http://developer.github.com/v3/) - I don't always get excited about accordion-based navigation, but when I do... 
 * [Dropwizard](http://dropwizard.codahale.com/) - Beautiful and concise; another Bootstrap joint. 
