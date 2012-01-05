@@ -20,4 +20,4 @@ This should be updated fairly regularly. As usual, **pull requests are encourage
 * [Django Documentation](https://docs.djangoproject.com/en/1.3/) (via [@bretthoerner](https://twitter.com/bretthoerner))
 * [Erldocs.com](http://erldocs.com/) (via [@bradfordw](https://twitter.com/#!/bradfordw))
 * [Clojuredocs.org](http://clojuredocs.org) (via [@mrb_bk](https://twitter.com/#!/mrb_bk))
-
+* [Pow annotated source](http://pow.cx/docs/) - built with [docco](http://jashkenas.github.com/docco/)
