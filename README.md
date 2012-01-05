@@ -23,3 +23,4 @@ This should be updated fairly regularly. As usual, **pull requests are encourage
 * [FreeBSD Handbook](http://www.freebsd.org/handbook/) - Clean and direct documentation of an OS. (contributed by [@mrtazz](https://twitter.com/#!/mrtazz))
 * [Ruby on Rails Guides](http://guides.rubyonrails.org/) (contributed by [@seancribbs](https://twitter.com/#!/seancribbs))
 * [Pow Annotated Source](http://pow.cx/docs/) - Built with [docco.](http://jashkenas.github.com/docco/) (contributed by [@BonzoESC](https://twitter.com/BonzoESC))
+* [Stripe Documentation](https://stripe.com/docs) - I especially love how the [API docs](https://stripe.com/docs/api) show examples for curl and their supported client libraries.
