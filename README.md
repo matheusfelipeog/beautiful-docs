@@ -22,4 +22,4 @@ This should be updated fairly regularly. As usual, **pull requests are encourage
 * [Clojuredocs.org](http://clojuredocs.org) (contributed by [@mrb_bk](https://twitter.com/#!/mrb_bk))
 * [FreeBSD Handbook](www.freebsd.org/handbook/) - Clean and direct documentation of an OS. (contributed by [@mrtazz](https://twitter.com/#!/mrtazz))
 * [Ruby on Rails Guides](http://guides.rubyonrails.org/) (contributed by [@seancribbs](https://twitter.com/#!/seancribbs))
-
+* [Pow Annotated Source](http://pow.cx/docs/) - Built with [docco.](http://jashkenas.github.com/docco/) (contributed by [@BonzoESC](https://twitter.com/BonzoESC))
