@@ -23,3 +23,5 @@ This should be updated fairly regularly. As usual, **pull requests are encourage
 * [FreeBSD Handbook](http://www.freebsd.org/handbook/) - Clean and direct documentation of an OS. (contributed by [@mrtazz](https://twitter.com/#!/mrtazz))
 * [Ruby on Rails Guides](http://guides.rubyonrails.org/) (contributed by [@seancribbs](https://twitter.com/#!/seancribbs))
 * [Pow Annotated Source](http://pow.cx/docs/) - Built with [docco.](http://jashkenas.github.com/docco/) (contributed by [@BonzoESC](https://twitter.com/BonzoESC))
+* [CoffeeScript](http://coffeescript.org/) (contributed by [@joedevivo](https://twitter.com/#!/joedevivo))
+* [Why's (Poignant) Guide to Ruby](http://mislav.uniqpath.com/poignant-guide/) (contributed by [@joedevivo](https://twitter.com/#!/joedevivo))
