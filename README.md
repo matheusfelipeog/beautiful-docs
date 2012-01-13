@@ -27,6 +27,7 @@ This should be updated fairly regularly. As usual, **pull requests are encourage
 * [Librato Developer Docs](http://dev.librato.com/) - Librato's RESTful API documentation. (contributed by [@josephruscio](https://twitter.com/josephruscio))
 * [CoffeeScript](http://coffeescript.org/) (contributed by [@joedevivo](https://twitter.com/#!/joedevivo))
 * [Why's (Poignant) Guide to Ruby](http://mislav.uniqpath.com/poignant-guide/) (contributed by [@joedevivo](https://twitter.com/#!/joedevivo))
+* [Coda Hale's Metrics Library](http://metrics.codahale.com/index.html) - Great documentation of the Metrics instrumentation library
 
 ### Writing about Docs (again, in no particular order)
 
