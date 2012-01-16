@@ -14,7 +14,7 @@ This should be updated fairly regularly. As usual, **pull requests are encourage
 * [BrightBox Developer Docs](http://docs.brightbox.com) - Clean design, easy to navigate, very in-depth.   
 * [Riaknostic](http://riaknostic.basho.com) - Made possible by [Bootstrap](https://github.com/twitter/bootstrap), this is a great example of a project homepage that doubles as a documentation teaser. 
 * [GitHub Developer Docs](http://developer.github.com/v3/) - I don't always get excited about accordion-based navigation, but when I do... 
-* [Dropwizard](http://dropwizard.codahale.com/) - Beautiful and concise; another Bootstrap joint. 
+* [Dropwizard](http://dropwizard.codahale.com/) - Beautiful and concise; another Bootstrap joint. ([Coda Hale's Metrics Library](http://metrics.codahale.com/index.html) uses the same design and is equally as deserving of developer adoration (contributed by [mrtazz](https://twitter.com/#!/mrtazz)).)
 * [Riak Pipe README](https://github.com/basho/riak_pipe) - The simplicity of READMEs means that you can't obscure shitty content with flashy design. This one is written by my Basho colleague [Bryan Fink](https://twitter.com/#!/hobbyist) and should be committed to memory as an excellent example of how to write READMEs. 
 * [Learn You Some Erlang](http://learnyousomeerlang.com/) (contributed by [@lenary](https://twitter.com/lenary)) 
 * [Django Documentation](https://docs.djangoproject.com/en/1.3/) (contributed by [@bretthoerner](https://twitter.com/bretthoerner))
