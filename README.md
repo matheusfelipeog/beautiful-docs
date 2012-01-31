@@ -28,7 +28,8 @@ This should be updated fairly regularly. As usual, **pull requests are encourage
 * [CoffeeScript](http://coffeescript.org/) (contributed by [@joedevivo](https://twitter.com/#!/joedevivo))
 * [Why's (Poignant) Guide to Ruby](http://mislav.uniqpath.com/poignant-guide/) (contributed by [@joedevivo](https://twitter.com/#!/joedevivo))
 * [A Beginner's Guide To HTML and CSS](http://learn.shayhowe.com/html-css/terminology-syntax-intro)
-
+* [hogan.js](http://twitter.github.com/hogan.js/) - simple and beautiful. (contributed by [@kylewest](https://twitter.com/kylewest))
+                                                                                                               - 
 ### Writing about Docs (again, in no particular order)
 
 * [Designing Great API Docs](http://blog.parse.com/2012/01/11/designing-great-api-docs/) - Blog post by [@jamesyu](https://twitter.com/jamesjyu) about what he/Parse finds essential in API Docs. (contributed by [@hobbyist](https://twitter.com/https://twitter.com/#!/hobbyist))
