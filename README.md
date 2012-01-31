@@ -32,3 +32,8 @@ This should be updated fairly regularly. As usual, **pull requests are encourage
 ### Writing about Docs (again, in no particular order)
 
 * [Designing Great API Docs](http://blog.parse.com/2012/01/11/designing-great-api-docs/) - Blog post by [@jamesyu](https://twitter.com/jamesjyu) about what he/Parse finds essential in API Docs. (contributed by [@hobbyist](https://twitter.com/https://twitter.com/#!/hobbyist))
+
+### Generating Docs
+
+* [docco](http://jashkenas.github.com/docco/) - pretty docs from source code comments with ports for many languages. (contributed by [@kylewest](https://twitter.com/kylewest))
+* [DocumentUp](http://documentup.com/) - Instantly beautify your Github repositories' `README.md`. (contributed by [@kylewest](https://twitter.com/kylewest))
