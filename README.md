@@ -28,6 +28,7 @@ This should be updated fairly regularly. As usual, **pull requests are encourage
 * [CoffeeScript](http://coffeescript.org/) (contributed by [@joedevivo](https://twitter.com/#!/joedevivo))
 * [Why's (Poignant) Guide to Ruby](http://mislav.uniqpath.com/poignant-guide/) (contributed by [@joedevivo](https://twitter.com/#!/joedevivo))
 * [A Beginner's Guide To HTML and CSS](http://learn.shayhowe.com/html-css/terminology-syntax-intro)
+* [Scala Documentation](http://docs.scala-lang.org/) - Beautifully styled Scala documentation site.
 
 ### Writing about Docs (again, in no particular order)
 
