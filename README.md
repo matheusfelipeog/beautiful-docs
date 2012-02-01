@@ -35,7 +35,7 @@ This should be updated fairly regularly. As usual, **pull requests are encourage
 * [Linode Library](http://library.linode.com) (contributed by [@davidmatas](https://twitter.com/#!/davidmatas))
 * [Brighter Planet API](http://impact.brighterplanet.com/documentation) along with [live examples](http://impact.brighterplanet.com/models/automobile), [methodology statements for calculations](http://impact.brighterplanet.com/automobiles?make=saab&model=900s&year=1990), and [calculation methodology source narratives](http://brighterplanet.github.com/automobile/impact_model.html) (contributed by [Derek Kastner](https://github.com/dkastner))
 * [Symfony2 Docs](http://symfony.com/doc/current/) (contributed by [Rodney Keeling](https://github.com/rodneykeeling))
-
+* [Ruby on Rails Tutorial](http://ruby.railstutorial.org/ruby-on-rails-tutorial-book?version=3.2) (contributed by [Paul Stefen Ort](https://github.com/paulstefanort))
 
 ### Writing about Docs (again, in no particular order)
 
