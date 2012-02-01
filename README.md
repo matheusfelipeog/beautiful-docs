@@ -28,8 +28,6 @@ This should be updated fairly regularly. As usual, **pull requests are encourage
 * [CoffeeScript](http://coffeescript.org/) (contributed by [@joedevivo](https://twitter.com/#!/joedevivo))
 * [Why's (Poignant) Guide to Ruby](http://mislav.uniqpath.com/poignant-guide/) (contributed by [@joedevivo](https://twitter.com/#!/joedevivo))
 * [A Beginner's Guide To HTML and CSS](http://learn.shayhowe.com/html-css/terminology-syntax-intro)
-<<<<<<< HEAD
-<<<<<<< HEAD
 * [CodeIgnitor](http://codeigniter.com/user_guide/toc.html) (contributed by [@joshuapoehls](https://twitter.com/#!/joshuapoehls))
 * [Twitter Bootstrap](http://twitter.github.com/bootstrap/) and [v2](http://markdotto.com/bs2/docs/index.html) - Documented the project using the project. (contributed by [@kylewest](https://twitter.com/kylewest)) 
 * [hogan.js](http://twitter.github.com/hogan.js/) - Simple and Beautiful. (contributed by [@kylewest](https://twitter.com/kylewest))
