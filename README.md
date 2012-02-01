@@ -33,6 +33,7 @@ This should be updated fairly regularly. As usual, **pull requests are encourage
 * [hogan.js](http://twitter.github.com/hogan.js/) - Simple and Beautiful. (contributed by [@kylewest](https://twitter.com/kylewest))
 * [Scala Documentation](http://docs.scala-lang.org/) - Beautifully-styled Scala documentation site. (Contributed by [David M. Lee](https://github.com/leedm777))
 * [Linode Library](http://library.linode.com) (contributed by [@davidmatas](https://twitter.com/#!/davidmatas))
+* [Brighter Planet API](http://impact.brighterplanet.com/documentation) along with [live examples](http://impact.brighterplanet.com/models/automobile), [methodology statements for calculations](http://impact.brighterplanet.com/automobiles?make=saab&model=900s&year=1990), and [calculation methodology source narratives](http://brighterplanet.github.com/automobile/impact_model.html) (contributed by [Derek Kastner](https://github.com/dkastner))
 
 ### Writing about Docs (again, in no particular order)
 
