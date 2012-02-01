@@ -28,10 +28,13 @@ This should be updated fairly regularly. As usual, **pull requests are encourage
 * [CoffeeScript](http://coffeescript.org/) (contributed by [@joedevivo](https://twitter.com/#!/joedevivo))
 * [Why's (Poignant) Guide to Ruby](http://mislav.uniqpath.com/poignant-guide/) (contributed by [@joedevivo](https://twitter.com/#!/joedevivo))
 * [A Beginner's Guide To HTML and CSS](http://learn.shayhowe.com/html-css/terminology-syntax-intro)
+<<<<<<< HEAD
 * [CodeIgnitor](http://codeigniter.com/user_guide/toc.html) (contributed by [@joshuapoehls](https://twitter.com/#!/joshuapoehls))
 * [Twitter Bootstrap](http://twitter.github.com/bootstrap/) and [v2](http://markdotto.com/bs2/docs/index.html) - Documented the project using the project. (contributed by [@kylewest](https://twitter.com/kylewest)) 
 * [hogan.js](http://twitter.github.com/hogan.js/) - Simple and Beautiful. (contributed by [@kylewest](https://twitter.com/kylewest))
-                                                                                                              
+* [Scala Documentation](http://docs.scala-lang.org/) - Beautifully-styled Scala documentation site. (Contributed by [David M. Lee](https://github.com/leedm777))
+ 
+
 ### Writing about Docs (again, in no particular order)
 
 * [Designing Great API Docs](http://blog.parse.com/2012/01/11/designing-great-api-docs/) - Blog post by [@jamesyu](https://twitter.com/jamesjyu) about what he/Parse finds essential in API Docs. (contributed by [@hobbyist](https://twitter.com/https://twitter.com/#!/hobbyist))
