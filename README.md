@@ -28,6 +28,8 @@ This should be updated fairly regularly. As usual, **pull requests are encourage
 * [CoffeeScript](http://coffeescript.org/) (contributed by [@joedevivo](https://twitter.com/#!/joedevivo))
 * [Why's (Poignant) Guide to Ruby](http://mislav.uniqpath.com/poignant-guide/) (contributed by [@joedevivo](https://twitter.com/#!/joedevivo))
 * [A Beginner's Guide To HTML and CSS](http://learn.shayhowe.com/html-css/terminology-syntax-intro)
+* [Twitter Bootstrap](http://twitter.github.com/bootstrap) - Excellent UI examples with clear inline code samples. (You can also *Inspect Element* or *View Source* for further assistance.)
+* [Ruby on Rails Tutorial](http://ruby.railstutorial.org/ruby-on-rails-tutorial-book?version=3.2)
 
 ### Writing about Docs (again, in no particular order)
 
