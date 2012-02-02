@@ -38,7 +38,8 @@ This should be updated fairly regularly. As usual, **pull requests are encourage
 * [Ruby on Rails Tutorial](http://ruby.railstutorial.org/ruby-on-rails-tutorial-book?version=3.2) (contributed by [Paul Stefen Ort](https://github.com/paulstefanort))
 * [CamanJS Documentation](http://camanjs.com/docs) (contributed by [@meltingice](https://twitter.com/meltingice))
 * [DocumentUp](http://documentup.com/) - A documentation site generator for Github projects. (contributed by [Jerome Gravel-Niquet](https://github.com/jeromegn))
-* [Pyramid Documentation](http://docs.pylonsproject.org/en/latest/docs/pyramid.html) (contributed by [https://github.com/csenger](csenger))
+* [Pyramid Documentation](http://docs.pylonsproject.org/en/latest/docs/pyramid.html) (contributed by [csenger](https://github.com/csenger))
+* [Number Laundry API](http://numberlaundry.whatcheer.com/) - Fun design, simple examples. (contributed by [@jmhobbs](https://twitter.com/jmhobbs))
 
 ### Writing about Docs (again, in no particular order)
 
