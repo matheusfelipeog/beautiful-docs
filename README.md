@@ -1,4 +1,4 @@
-†# Beautiful Docs 
+# Beautiful Docs 
 
 I love documentation. If you work with/are writing code intended for usage and consumption by more than one person, you should love it, too. Documentation and other resources will make or break the success of your project. And the more open and collaborative you want development to be, the more crucial docs become.
 
@@ -28,7 +28,6 @@ This should be updated fairly regularly. As usual, **pull requests are encourage
 * [CoffeeScript](http://coffeescript.org/) (contributed by [@joedevivo](https://twitter.com/#!/joedevivo))
 * [Why's (Poignant) Guide to Ruby](http://mislav.uniqpath.com/poignant-guide/) (contributed by [@joedevivo](https://twitter.com/#!/joedevivo))
 * [A Beginner's Guide To HTML and CSS](http://learn.shayhowe.com/html-css/terminology-syntax-intro)
-<<<<<<< HEAD
 * [CodeIgnitor](http://codeigniter.com/user_guide/toc.html) (contributed by [@joshuapoehls](https://twitter.com/#!/joshuapoehls))
 * [Twitter Bootstrap](http://twitter.github.com/bootstrap/) and [v2](http://markdotto.com/bs2/docs/index.html) - Documented the project using the project. (contributed by [@kylewest](https://twitter.com/kylewest)) 
 * [hogan.js](http://twitter.github.com/hogan.js/) - Simple and Beautiful. (contributed by [@kylewest](https://twitter.com/kylewest))
@@ -37,9 +36,7 @@ This should be updated fairly regularly. As usual, **pull requests are encourage
 * [Brighter Planet API](http://impact.brighterplanet.com/documentation) along with [live examples](http://impact.brighterplanet.com/models/automobile), [methodology statements for calculations](http://impact.brighterplanet.com/automobiles?make=saab&model=900s&year=1990), and [calculation methodology source narratives](http://brighterplanet.github.com/automobile/impact_model.html) (contributed by [Derek Kastner](https://github.com/dkastner))
 * [Symfony2 Docs](http://symfony.com/doc/current/) (contributed by [Rodney Keeling](https://github.com/rodneykeeling))
 * [Ruby on Rails Tutorial](http://ruby.railstutorial.org/ruby-on-rails-tutorial-book?version=3.2) (contributed by [Paul Stefen Ort](https://github.com/paulstefanort))
-=======
 * [CamanJS Documentation](http://camanjs.com/docs) (contributed by [@meltingice](https://twitter.com/meltingice))
->>>>>>> 15cfda780627eb4e7b2ecf810b589ed5c8a86d64
 
 ### Writing about Docs (again, in no particular order)
 
