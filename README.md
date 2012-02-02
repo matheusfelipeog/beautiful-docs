@@ -18,6 +18,7 @@ This should be updated fairly regularly. As usual, **pull requests are encourage
 * [Riak Pipe README](https://github.com/basho/riak_pipe) - The simplicity of READMEs means that you can't obscure shitty content with flashy design. This one is written by my Basho colleague [Bryan Fink](https://twitter.com/#!/hobbyist) and should be committed to memory as an excellent example of how to write READMEs. 
 * [Learn You Some Erlang](http://learnyousomeerlang.com/) (contributed by [@lenary](https://twitter.com/lenary)) 
 * [Django Documentation](https://docs.djangoproject.com/en/1.3/) (contributed by [@bretthoerner](https://twitter.com/bretthoerner))
+* [Pyramid Documentation](http://docs.pylonsproject.org/en/latest/docs/pyramid.html)
 * [Erldocs.com](http://erldocs.com/) (contributed by [@bradfordw](https://twitter.com/#!/bradfordw))
 * [Clojuredocs.org](http://clojuredocs.org) (contributed by [@mrb_bk](https://twitter.com/#!/mrb_bk))
 * [FreeBSD Handbook](http://www.freebsd.org/handbook/) - Clean and direct documentation of an OS. (contributed by [@mrtazz](https://twitter.com/#!/mrtazz))
