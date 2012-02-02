@@ -2,9 +2,9 @@
 
 I love documentation. If you work with/are writing code intended for usage and consumption by more than one person, you should love it, too. Documentation and other resources will make or break the success of your project. And the more open and collaborative you want development to be, the more crucial docs become.
 
-With that in mind, here's a list of docs and other developer resources that myself and others find particularly useful, well-written, and otherwise "beautiful". May they serve to inspire you when writing and designing yours. 
+With that in mind, here's a list of docs and other developer resources that myself and others find particularly useful, well-written, and otherwise "beautiful". May they serve to inspire you when writing and designing yours. Thanks to various contributors, we now also have a sections dedicated to **Writing about Documentation** and **Tools for Generating Docs**. Make sure you scroll down far enough to see those.
 
-This should be updated fairly regularly. As usual, **pull requests are encouraged**. 
+This should be updated fairly regularly. As usual, **pull requests are encouraged**. *If you're contributing a link, be sure to include a few words on why you're adding it and some sort of self-attribution so that people can know from whom it came.*
 
 [Mark](https://twitter.com/pharkmillups) 
 
