@@ -37,6 +37,7 @@ This should be updated fairly regularly. As usual, **pull requests are encourage
 * [Symfony2 Docs](http://symfony.com/doc/current/) (contributed by [Rodney Keeling](https://github.com/rodneykeeling))
 * [Ruby on Rails Tutorial](http://ruby.railstutorial.org/ruby-on-rails-tutorial-book?version=3.2) (contributed by [Paul Stefen Ort](https://github.com/paulstefanort))
 * [CamanJS Documentation](http://camanjs.com/docs) (contributed by [@meltingice](https://twitter.com/meltingice))
+* [DocumentUp](http://documentup.com/) - A documentation site generator for Github projects. (Contributed by [Jerome Gravel-Niquet](https://github.com/jeromegn))
 
 ### Writing about Docs (again, in no particular order)
 
