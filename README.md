@@ -40,6 +40,7 @@ This should be updated fairly regularly. As usual, **pull requests are encourage
 * [DocumentUp](http://documentup.com/) - A documentation site generator for Github projects. (contributed by [Jerome Gravel-Niquet](https://github.com/jeromegn))
 * [Pyramid Documentation](http://docs.pylonsproject.org/en/latest/docs/pyramid.html) (contributed by [csenger](https://github.com/csenger))
 * [Number Laundry API](http://numberlaundry.whatcheer.com/) - Fun design, simple examples. (contributed by [@jmhobbs](https://twitter.com/jmhobbs))
+* [Qt](http://developer.qt.nokia.com/doc/qt-4.8/) - Very comprehensive documentation with tutorials and guides and great examples. (contributed by [@nikhilcutshort](https://twitter.com/nikhilcutshort))
 
 ### Writing about Docs (again, in no particular order)
 
@@ -49,3 +50,6 @@ This should be updated fairly regularly. As usual, **pull requests are encourage
 
 * [docco](http://jashkenas.github.com/docco/) - Pretty docs from source code comments with ports for many languages. (contributed by [@kylewest](https://twitter.com/kylewest))
 * [DocumentUp](http://documentup.com/) - Instantly beautify your Github repositories' `README.md`. (contributed by [@kylewest](https://twitter.com/kylewest))
+* [Sphinx](http://sphinx.pocoo.org/) - Comprehensive documentationt tool using restructuredText with beautiful HTML and PDF output. (contributed by [@nikhilcutshort](https://twitter.com/nikhilcutshort))
+* [dr.js](https://github.com/DmitryBaranovskiy/dr.js) - Tiny JavaScript documentation generator from the author of RaphaëlJS.  (contributed by [@nikhilcutshort](https://twitter.com/nikhilcutshort))
+                                                      - 
