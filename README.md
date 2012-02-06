@@ -42,6 +42,7 @@ This should be updated fairly regularly. As usual, **pull requests are encourage
 * [Number Laundry API](http://numberlaundry.whatcheer.com/) - Fun design, simple examples. (contributed by [@jmhobbs](https://twitter.com/jmhobbs))
 * [Backbone.js](http://documentcloud.github.com/backbone/) - Simple, clean, single page. (contributed by [@twe4ked](http://twitter.com/twe4ked))
 * [Qt](http://developer.qt.nokia.com/doc/qt-4.8/) - Very comprehensive documentation with tutorials and guides and great examples. (contributed by [@nikhilcutshort](https://twitter.com/nikhilcutshort))
+* [CasperJS](http://casperjs.org) - CasperJS is a navigation scripting & testing utility for PhantomJS, written in Javascript. (contributed by [@n1k0](https://twitter.com/n1k0))
 
 ### Writing about Docs (again, in no particular order)
 
