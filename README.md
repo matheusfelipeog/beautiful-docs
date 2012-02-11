@@ -44,6 +44,7 @@ This should be updated fairly regularly. As usual, **pull requests are encourage
 * [Qt](http://developer.qt.nokia.com/doc/qt-4.8/) - Very comprehensive documentation with tutorials and guides and great examples. (contributed by [@nikhilcutshort](https://twitter.com/nikhilcutshort))
 * [CasperJS](http://casperjs.org) - CasperJS is a navigation scripting & testing utility for PhantomJS, written in Javascript. (contributed by [@n1k0](https://twitter.com/n1k0))
 * [Leaflet](http://leaflet.cloudmade.com/reference.html) - Simple and elegant single page docs. (contributed by [@mourner](http://github.com/mourner))
+* [rubyamqp.info](http://rubyamqp.info): a number of in-depth guides that cover Ruby amqp gem but also try to explain AMQP 0.9.1 features, why they exist and how they are supposed to be used.
 
 ### Writing about Docs (again, in no particular order)
 
