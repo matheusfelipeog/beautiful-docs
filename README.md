@@ -45,6 +45,7 @@ This should be updated fairly regularly. As usual, **pull requests are encourage
 * [CasperJS](http://casperjs.org) - CasperJS is a navigation scripting & testing utility for PhantomJS, written in Javascript. (contributed by [@n1k0](https://twitter.com/n1k0))
 * [Leaflet](http://leaflet.cloudmade.com/reference.html) - Simple and elegant single page docs. (contributed by [@mourner](http://github.com/mourner))
 * [rubyamqp.info](http://rubyamqp.info) - A number of in-depth guides that cover Ruby amqp gem but also try to explain AMQP 0.9.1 features, why they exist and how they are supposed to be used. (contributed by [Michael Klishin](https://twitter.com/#!/michaelklishin/))
+* [Savon.rb](http://savonrb.com/) (contributed by [Mathias Meyer](https://twitter.com/#!/roidrage))
 
 ### Writing about Docs (again, in no particular order)
 
