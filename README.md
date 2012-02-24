@@ -46,8 +46,8 @@ This should be updated fairly regularly. As usual, **pull requests are encourage
 * [Leaflet](http://leaflet.cloudmade.com/reference.html) - Simple and elegant single page docs. (contributed by [@mourner](http://github.com/mourner))
 * [rubyamqp.info](http://rubyamqp.info) - A number of in-depth guides that cover Ruby amqp gem but also try to explain AMQP 0.9.1 features, why they exist and how they are supposed to be used. (contributed by [Michael Klishin](https://twitter.com/#!/michaelklishin/))
 * [Savon.rb](http://savonrb.com/) (contributed by [Mathias Meyer](https://twitter.com/#!/roidrage))
-* [Mozilla Developer Networks - Best Documentation on all Web Technologies](https://developer.mozilla.org/en-US/) (contributed by [Rajeev N B @rBharshetty](https://twitter.com/#!/rBharshetty)
-  [Android Developer Documentation](http://developer.android.com/guide/index.html) (contributed by [Rajeev N B @rBharshetty](https://twitter.com/#!/rBharshetty))                        - )
+* [Mozilla Developer Networks - Best Documentation on all Web Technologies](https://developer.mozilla.org/en-US/) (contributed by [Rajeev N B @rBharshetty](https://twitter.com/#!/rBharshetty))
+* [Android Developer Documentation](http://developer.android.com/guide/index.html) (contributed by [Rajeev N B @rBharshetty](https://twitter.com/#!/rBharshetty))                        - )
       
 
 ### Writing about Docs (again, in no particular order)
