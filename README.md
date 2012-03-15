@@ -8,7 +8,7 @@ This should be updated fairly regularly. As usual, **pull requests are encourage
 
 [Mark](https://twitter.com/pharkmillups) 
 
-### And Now For The Docs (in no particular)
+### And Now For The Docs (in no particular order)
 
 * [Redis Commands](http://redis.io/commands) - Most of the Redis docs are exceptional, but this section really epitomizes the combination of good design and usability. And all the individual command pages give you the ability to test things out without leaving the page. Pretty close to perfect.
 * [BrightBox Developer Docs](http://docs.brightbox.com) - Clean design, easy to navigate, very in-depth.   
