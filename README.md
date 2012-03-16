@@ -47,7 +47,12 @@ This should be updated fairly regularly. As usual, **pull requests are encourage
 * [rubyamqp.info](http://rubyamqp.info) - A number of in-depth guides that cover Ruby amqp gem but also try to explain AMQP 0.9.1 features, why they exist and how they are supposed to be used. (contributed by [Michael Klishin](https://twitter.com/#!/michaelklishin/))
 * [Savon.rb](http://savonrb.com/) (contributed by [Mathias Meyer](https://twitter.com/#!/roidrage))
 * [Mozilla Developer Networks - Best Documentation on all Web Technologies](https://developer.mozilla.org/en-US/) (contributed by [Rajeev N B @rBharshetty](https://twitter.com/#!/rBharshetty))
-* [Android Developer Documentation](http://developer.android.com/guide/index.html) (contributed by [Rajeev N B @rBharshetty](https://twitter.com/#!/rBharshetty))                       
+* [Android Developer Documentation](http://developer.android.com/guide/index.html) (contributed by [Rajeev N B @rBharshetty](https://twitter.com/#!/rBharshetty))   
+* [Python Developer Documentation](http://docs.python.org/) (contributed by [Rajeev N B @rBharshetty](https://twitter.com/#!/rBharshetty))
+* [App Engine Developer Documentation](http://code.google.com/appengine/docs/) (contributed by [Rajeev N B @rBharshetty](https://twitter.com/#!/rBharshetty))     
+* [PHP Documentation](http://php.net/docs.php) (contributed by [Rajeev N B @rBharshetty](https://twitter.com/#!/rBharshetty)) 
+* [JQuery Documentation](http://docs.jquery.com/Main_Page) (contributed by [Rajeev N B @rBharshetty](https://twitter.com/#!/rBharshetty)) 
+* [Apache 2.0 Developer Documentation](http://httpd.apache.org/docs/2.0/developer/) (contributed by [Rajeev N B @rBharshetty](https://twitter.com/#!/rBharshetty)) 
 
 ### Writing about Docs (again, in no particular order)
 
