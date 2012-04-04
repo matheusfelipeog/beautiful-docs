@@ -48,8 +48,8 @@ This should be updated fairly regularly. As usual, **pull requests are encourage
 * [Savon.rb](http://savonrb.com/) (contributed by [Mathias Meyer](https://twitter.com/#!/roidrage))
 * [Mozilla Developer Networks - Best Documentation on all Web Technologies](https://developer.mozilla.org/en-US/) (contributed by [Rajeev N B @rBharshetty](https://twitter.com/#!/rBharshetty))
 * [Android Developer Documentation](http://developer.android.com/guide/index.html) (contributed by [Rajeev N B @rBharshetty](https://twitter.com/#!/rBharshetty))                       
-* [ØMQ - The Guide](http://zguide.zeromq.org/page:all) Exciting documentation for an exciting lib. Concise working code examples available in multiple languages. Concepts are explained clearly. (contributed by [kindkid](https://github.com/kindkid))
-* [Postmark Developer Docs](http://developer.postmarkapp.com/) Simple, easy to navigate, informative. 
+* [ØMQ - The Guide](http://zguide.zeromq.org/page:all) - Exciting documentation for an exciting lib. Concise working code examples available in multiple languages. Concepts are explained clearly. (contributed by [kindkid](https://github.com/kindkid))
+* [Postmark Developer Docs](http://developer.postmarkapp.com/) - Simple, easy to navigate, informative. 
 
 ### Writing about Docs (again, in no particular order)
 
