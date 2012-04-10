@@ -51,12 +51,12 @@ This should be updated fairly regularly. As usual, **pull requests are encourage
 * [ØMQ - The Guide](http://zguide.zeromq.org/page:all) - Exciting documentation for an exciting lib. Concise working code examples available in multiple languages. Concepts are explained clearly. (contributed by [kindkid](https://github.com/kindkid))
 * [Postmark Developer Docs](http://developer.postmarkapp.com/) - Simple, easy to navigate, informative.
 * [Twitter Developers Docs](https://dev.twitter.com/docs) -  In-depth and very well organized. (contributed by [@tsantero](https://twitter.com/#!/tsantero))
-* [GitHub Styleguide](https://github.com/styleguide) - Pragmatic styleguide with sections on Ruby, JavaScript and CSS. By the guys at [@github](https://twitter.com/github)
+* [GitHub Styleguide](https://github.com/styleguide) - Pragmatic styleguide with sections on Ruby, JavaScript and CSS. By the guys at [@github](https://twitter.com/github) (contributed by [@lenary)](https://twitter.com/#!/lenary))
 
 ### Writing about Docs (again, in no particular order)
 
 * [Designing Great API Docs](http://blog.parse.com/2012/01/11/designing-great-api-docs/) - Blog post by [@jamesyu](https://twitter.com/jamesjyu) about what he/Parse finds essential in API Docs. (contributed by [@hobbyist](https://twitter.com/https://twitter.com/#!/hobbyist))
-* [TomDoc](http://tomdoc.org/) - A specification for Ruby library API docs by [@mojombo](https://twitter.com/mojombo)
+* [TomDoc](http://tomdoc.org/) - A specification for Ruby library API docs by [@mojombo](https://twitter.com/mojombo) (contributed by [@lenary)](https://twitter.com/#!/lenary))
 
 ### Generating Docs
 
