@@ -51,6 +51,7 @@ This should be updated fairly regularly. As usual, **pull requests are encourage
 * [ØMQ - The Guide](http://zguide.zeromq.org/page:all) - Exciting documentation for an exciting lib. Concise working code examples available in multiple languages. Concepts are explained clearly. (contributed by [kindkid](https://github.com/kindkid))
 * [Postmark Developer Docs](http://developer.postmarkapp.com/) - Simple, easy to navigate, informative.
 * [Twitter Developers Docs](https://dev.twitter.com/docs) -  In-depth and very well organized. (contributed by [@tsantero](https://twitter.com/#!/tsantero))
+* [GitHub Styleguide](https://github.com/styleguide) - Pragmatic styleguide with sections on Ruby, JavaScript and CSS. By the guys at [@github](https://twitter.com/github)
 
 ### Writing about Docs (again, in no particular order)
 
