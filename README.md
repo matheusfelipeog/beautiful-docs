@@ -52,6 +52,7 @@ This should be updated fairly regularly. As usual, **pull requests are encourage
 * [Postmark Developer Docs](http://developer.postmarkapp.com/) - Simple, easy to navigate, informative.
 * [Twitter Developers Docs](https://dev.twitter.com/docs) -  In-depth and very well organized. (contributed by [@tsantero](https://twitter.com/#!/tsantero))
 * [GitHub Styleguide](https://github.com/styleguide) - Pragmatic styleguide with sections on Ruby, JavaScript and CSS. By the guys at [@github](https://twitter.com/github) (contributed by [@lenary](https://twitter.com/#!/lenary))
+* [Moment.js](http://momentjs.com/docs) (contributed by [@joshuapoehls](https://twitter.com/#!/joshuapoehls))
 
 ### Writing about Docs (again, in no particular order)
 
