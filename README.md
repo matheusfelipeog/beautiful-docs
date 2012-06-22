@@ -53,6 +53,7 @@ This should be updated fairly regularly. As usual, **pull requests are encourage
 * [Twitter Developers Docs](https://dev.twitter.com/docs) -  In-depth and very well organized. (contributed by [@tsantero](https://twitter.com/#!/tsantero))
 * [GitHub Styleguide](https://github.com/styleguide) - Pragmatic styleguide with sections on Ruby, JavaScript and CSS. By the guys at [@github](https://twitter.com/github) (contributed by [@lenary](https://twitter.com/#!/lenary))
 * [Moment.js](http://momentjs.com/docs) - Thorough, well-designed, and excellent use of top-nav.  (contributed by [@joshuapoehls](https://twitter.com/#!/joshuapoehls))
+* [Behat](http://behat.org) - StoryBDD framework for PHP inspired by Ruby Cucumber. (contributed by [@everzet](https://github.com/everzet))
 
 ### Writing about Docs (again, in no particular order)
 
