@@ -59,6 +59,7 @@ This should be updated fairly regularly. As usual, **pull requests are encourage
 * [DotCloud Platform Docs](http://docs.dotcloud.com/firststeps/platform-overview/) - Responsive, focused, simple, and all-around useable.
 * [Mashape API Docs](https://www.mashape.com/japerk/text-processing) - Clean auto-generated documentations for APIs
 * [Basho Docs](http://docs.basho.com/) - Well-designed, excellent use of versioning, integrated search, and much more.
+* [spray.io Docs](http://spray.io) - Well-structured, clean, responsive, comprehensive. Bootstrap-based design.
 
 ### Writing about Docs (again, in no particular order)
 
