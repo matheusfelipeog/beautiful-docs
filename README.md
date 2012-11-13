@@ -61,6 +61,7 @@ This should be updated fairly regularly. As usual, **pull requests are encourage
 * [Basho Docs](http://docs.basho.com/) - Well-designed, excellent use of versioning, integrated search, and much more.
 * [spray.io Docs](http://spray.io) - Well-structured, clean, responsive, comprehensive. Bootstrap-based design.
 * [Go By Example](http://gobyexample.com) - Clean, simple, and extensive. These docs that make you want to learn Go just because they make it so straightforward. 
+* [99s Ranch User Guide](http://ninenines.eu/docs/en/ranch/HEAD/guide/introduction) - Pretty clear and thorough user guide. (contributed by [@lenary](https://twitter.com/#!/lenary))
 
 ### Writing about Docs (again, in no particular order)
 
