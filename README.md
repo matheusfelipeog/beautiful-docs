@@ -64,6 +64,7 @@ This should be updated fairly regularly. As usual, **pull requests are encourage
 * [Go By Example](http://gobyexample.com) - Clean, simple, and extensive. These docs that make you want to learn Go just because they make it so straightforward. 
 * [99s Ranch User Guide](http://ninenines.eu/docs/en/ranch/HEAD/guide/introduction) - Pretty clear and thorough user guide. (contributed by [@lenary](https://twitter.com/#!/lenary))
 * [Gevent API Docs](http://www.gevent.org/contents.html) - Clean, polished, API docs for Gevent. (contributed by [rubik](https://github.com/rubik))
+* [httpkit](https://httpkit.com/resources/HTTP-from-the-Command-Line/) - I dare you to tell me these docs aren't straight sex. 
 
 ### Writing about Docs (again, in no particular order)
 
