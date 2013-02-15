@@ -78,6 +78,6 @@ This should be updated fairly regularly. As usual, **pull requests are encourage
 * [docco](http://jashkenas.github.com/docco/) - Pretty docs from source code comments with ports for many languages. (contributed by [@kylewest](https://twitter.com/kylewest))
 * [DocumentUp](http://documentup.com/) - Instantly beautify your Github repositories' `README.md`. (contributed by [@kylewest](https://twitter.com/kylewest))
 * [Sphinx](http://sphinx.pocoo.org/) - Comprehensive documentation tool using restructuredText with beautiful HTML and PDF output. (contributed by [@nikhilcutshort](https://twitter.com/nikhilcutshort))
-* [dr.js](https://github.com/DmitryBaranovskiy/dr.js) - Tiny JavaScript documentation generator from the author of RaphaëlJS.  (contributed by [@nikhilcutshort](https://twitter.com/nikhilcutshort))
+* [dr.js](https://github.com/adobe-webplatform/dr.js) - Tiny JavaScript documentation generator from the author of RaphaëlJS.  (contributed by [@nikhilcutshort](https://twitter.com/nikhilcutshort))
 * [Markdoc](http://markdoc.org/) - Lightweight documentation/wiki generator in Python, released in the [public domain](http://unlicense.org/). (contributed by [Neelfyn](http://neelfyn.info/))
 * [ApiGen](http://apigen.org/) - Creates clean API documentation from PHP source code (contributed by [bryceadams](http://bryce.se/))
