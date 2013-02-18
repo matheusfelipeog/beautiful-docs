@@ -58,7 +58,6 @@ This should be updated fairly regularly. As usual, **pull requests are encourage
 * [Ember.js](http://emberjs.com/documentation/) - The overall navigation could be done a bit better but the presentation and readability is quite nice. (contributed by [@cmeik](https://twitter.com/cmeik))
 * [DotCloud Platform Docs](http://docs.dotcloud.com/firststeps/platform-overview/) - Responsive, focused, simple, and all-around useable.
 * [Mashape API Docs](https://www.mashape.com/japerk/text-processing) - Clean auto-generated documentations for APIs
-<<<<<<< HEAD
 * [Basho Docs](http://docs.basho.com/) - Well-designed, excellent use of versioning, integrated search, and much more.
 * [spray.io Docs](http://spray.io) - Well-structured, clean, responsive, comprehensive. Bootstrap-based design.
 * [Go By Example](http://gobyexample.com) - Clean, simple, and extensive. These docs that make you want to learn Go just because they make it so straightforward. 
@@ -67,6 +66,7 @@ This should be updated fairly regularly. As usual, **pull requests are encourage
 * [httpkit](https://httpkit.com/resources/HTTP-from-the-Command-Line/) - I dare you to tell me these docs aren't straight sex.
 * [CodernityDB](http://labs.codernity.com/codernitydb/index.html) - Clean, extensive, useful. I also love the fact that the day the software was released the documentation was this extensive. 
 * [Riemann](http://riemann.io/) - Great design, easy to read, and very thorough with introductory and advanced topics.
+* [Pretty RFC](http://pretty-rfc.herokuapp.com/) - Reworked [IETF](http://www.ietf.org) documents for easier viewing.
 
 ### Writing about Docs (again, in no particular order)
 
