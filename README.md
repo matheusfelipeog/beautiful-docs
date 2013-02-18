@@ -67,6 +67,7 @@ This should be updated fairly regularly. As usual, **pull requests are encourage
 * [httpkit](https://httpkit.com/resources/HTTP-from-the-Command-Line/) - I dare you to tell me these docs aren't straight sex.
 * [CodernityDB](http://labs.codernity.com/codernitydb/index.html) - Clean, extensive, useful. I also love the fact that the day the software was released the documentation was this extensive. 
 * [Riemann](http://riemann.io/) - Great design, easy to read, and very thorough with introductory and advanced topics.
+* [Pretty RFC](http://pretty-rfc.herokuapp.com/) - Reworked [IETF](http://www.ietf.org) documents for easier viewing.
 
 ### Writing about Docs (again, in no particular order)
 
