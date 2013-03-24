@@ -68,11 +68,14 @@ This should be updated fairly regularly. As usual, **pull requests are encourage
 * [Riemann](http://riemann.io/) - Great design, easy to read, and very thorough with introductory and advanced topics.
 * [Pretty RFC](http://pretty-rfc.herokuapp.com/) - Reworked [IETF](http://www.ietf.org) documents for easier viewing.
 * [Vagrant](http://docs.vagrantup.com/v2/) - Well organized, easy to read, attractive design. ([@clstokes](https://twitter.com/clstokes))
+* [Lisp Flavored Erlang: Quick Start](http://lfe.github.com/quick-start/1.html) - Attractive presentation, nice jumpstart for the language
+* [Thinking Forth](http://thinking-forth.sourceforge.net) - Forth is now largely eclipsed by Factor, but the book remains an inspiring look at the ideas behind this stack-based language
 
 ### Writing about Docs (again, in no particular order)
 
 * [Designing Great API Docs](http://blog.parse.com/2012/01/11/designing-great-api-docs/) - Blog post by [@jamesyu](https://twitter.com/jamesjyu) about what he/Parse finds essential in API Docs. (contributed by [@hobbyist](https://twitter.com/https://twitter.com/#!/hobbyist))
 * [TomDoc](http://tomdoc.org/) - A specification for Ruby library API docs by [@mojombo](https://twitter.com/mojombo) (contributed by [@lenary](https://twitter.com/#!/lenary))
+* [Write the Docs](http://conf.writethedocs.org) - A conference for authors of technical documentation
 
 ### Generating Docs
 
