@@ -68,7 +68,7 @@ This should be updated fairly regularly. As usual, **pull requests are encourage
 * [Riemann](http://riemann.io/) - Great design, easy to read, and very thorough with introductory and advanced topics.
 * [Pretty RFC](http://pretty-rfc.herokuapp.com/) - Reworked [IETF](http://www.ietf.org) documents for easier viewing.
 * [Vagrant](http://docs.vagrantup.com/v2/) - Well organized, easy to read, attractive design. ([@clstokes](https://twitter.com/clstokes))
-
+* [Stardog](http://stardog.com/docs/) - Docs for RDF graph database; focus on clean typography. ([@kendall](https://twitter.com/kendall))
 ### Writing about Docs (again, in no particular order)
 
 * [Designing Great API Docs](http://blog.parse.com/2012/01/11/designing-great-api-docs/) - Blog post by [@jamesyu](https://twitter.com/jamesjyu) about what he/Parse finds essential in API Docs. (contributed by [@hobbyist](https://twitter.com/https://twitter.com/#!/hobbyist))
