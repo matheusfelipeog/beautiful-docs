@@ -83,3 +83,4 @@ This should be updated fairly regularly. As usual, **pull requests are encourage
 * [Markdoc](http://markdoc.org/) - Lightweight documentation/wiki generator in Python, released in the [public domain](http://unlicense.org/). (contributed by [Neelfyn](http://neelfyn.info/))
 * [ApiGen](http://apigen.org/) - Creates clean API documentation from PHP source code (contributed by [bryceadams](http://bryce.se/))
 * [docgenerator](https://github.com/Ralt/docgenerator/blob/master/README.md) - Organize your documentation in Markdown files. (contributed by [Florian Margaine](http://margaine.com))
+* [dexy](http://www.dexy.it/) - Extensible documentation/report generator supporting multiple programming languages and serveral input and output formats.
