@@ -70,11 +70,15 @@ This should be updated fairly regularly. As usual, **pull requests are encourage
 * [Vagrant](http://docs.vagrantup.com/v2/) - Well organized, easy to read, attractive design. ([@clstokes](https://twitter.com/clstokes))
 * [Stardog](http://stardog.com/docs/) - Docs for RDF graph database; focus on clean typography. ([@kendall](https://twitter.com/kendall))
 * [Wolfram Language](http://reference.wolfram.com/language/) - Nice top-level navigation in a grid layout. Topics grouped by color, each with a relevant graphic and on-click menu of sub-topics. (contributed by [troytop](http://github.com/troyhop))
++* [Lisp Flavored Erlang: Quick Start](http://lfe.github.com/quick-start/1.html) - Attractive presentation, nice jumpstart for the language. (contributed by [@macintux](https://twitter.com/macintux)) 
+ +* [Thinking Forth](http://thinking-forth.sourceforge.net) - Forth is now largely eclipsed by Factor, but the book remains an inspiring look at the ideas behind this stack-based language. (contributed by [@macintux](https://twitter.com/macintux)) 
+
 
 ### Writing about Docs (again, in no particular order)
 
 * [Designing Great API Docs](http://blog.parse.com/2012/01/11/designing-great-api-docs/) - Blog post by [@jamesyu](https://twitter.com/jamesjyu) about what he/Parse finds essential in API Docs. (contributed by [@hobbyist](https://twitter.com/https://twitter.com/#!/hobbyist))
 * [TomDoc](http://tomdoc.org/) - A specification for Ruby library API docs by [@mojombo](https://twitter.com/mojombo) (contributed by [@lenary](https://twitter.com/#!/lenary))
+* [Write the Docs](http://conf.writethedocs.org) - A conference for authors of technical documentation. (contributed by [@macintux](https://twitter.com/macintux))
 
 ### Generating Docs
 
