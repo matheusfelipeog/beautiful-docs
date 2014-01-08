@@ -72,6 +72,7 @@ This should be updated fairly regularly. As usual, **pull requests are encourage
 * [Wolfram Language](http://reference.wolfram.com/language/) - Nice top-level navigation in a grid layout. Topics grouped by color, each with a relevant graphic and on-click menu of sub-topics. (contributed by [troytop](http://github.com/troyhop))
 * [Lisp Flavored Erlang: Quick Start](http://lfe.github.com/quick-start/1.html) - Attractive presentation, nice jumpstart for the language. (contributed by [@macintux](https://twitter.com/macintux)) 
 * [Thinking Forth](http://thinking-forth.sourceforge.net) - Forth is now largely eclipsed by Factor, but the book remains an inspiring look at the ideas behind this stack-based language. (contributed by [@macintux](https://twitter.com/macintux)) 
+* [Packer Documentation](http://www.packer.io/docs) - These are just lovely. 
 
 
 ### Writing about Docs (again, in no particular order)
