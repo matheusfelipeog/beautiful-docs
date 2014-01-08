@@ -2,7 +2,7 @@
 
 I love documentation. If you work with/are writing code intended for usage and consumption by more than one person, you should love it, too. Documentation and other resources will make or break the success of your project. And the more open and collaborative you want development to be, the more crucial docs become.
 
-With that in mind, here's a list of docs and other developer resources that myself and others find particularly useful, well-written, and otherwise "beautiful". May they serve to inspire you when writing and designing yours. Thanks to various contributors, we now also have sections dedicated to [Writing about Documentation](#writing-about-docs-again-in-no-particular-order) and [Tools for Generating Docs](#generating-docs).
+With that in mind, here's a list of docs and other developer resources that myself and others find particularly useful, well-written, and otherwise "beautiful." May they serve to inspire you when writing and designing yours. Thanks to various contributors, we now also have sections dedicated to [Writing about Documentation](#writing-about-docs-again-in-no-particular-order) and [Tools for Generating Docs](#generating-docs).
 
 This should be updated fairly regularly. As usual, **pull requests are encouraged**. *If you're contributing a link, be sure to include a few words on why you're adding it and some sort of self-attribution so that people can know from whom it came.*
 
@@ -69,6 +69,8 @@ This should be updated fairly regularly. As usual, **pull requests are encourage
 * [Pretty RFC](http://pretty-rfc.herokuapp.com/) - Reworked [IETF](http://www.ietf.org) documents for easier viewing.
 * [Vagrant](http://docs.vagrantup.com/v2/) - Well organized, easy to read, attractive design. ([@clstokes](https://twitter.com/clstokes))
 * [Stardog](http://stardog.com/docs/) - Docs for RDF graph database; focus on clean typography. ([@kendall](https://twitter.com/kendall))
+* [Wolfram Language](http://reference.wolfram.com/language/) - Nice top-level navigation in a grid layout. Topics grouped by color, each with a relevant graphic and on-click menu of sub-topics. (contributed by [troytop](http://github.com/troyhop))
+
 ### Writing about Docs (again, in no particular order)
 
 * [Designing Great API Docs](http://blog.parse.com/2012/01/11/designing-great-api-docs/) - Blog post by [@jamesyu](https://twitter.com/jamesjyu) about what he/Parse finds essential in API Docs. (contributed by [@hobbyist](https://twitter.com/https://twitter.com/#!/hobbyist))
