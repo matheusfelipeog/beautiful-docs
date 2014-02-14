@@ -12,7 +12,7 @@ This should be updated fairly regularly. As usual, **pull requests are encourage
 
 * [Redis Commands](http://redis.io/commands) - Most of the Redis docs are exceptional, but this section really epitomizes the combination of good design and usability. And all the individual command pages give you the ability to test things out without leaving the page. Pretty close to perfect.
 * [BrightBox Developer Docs](http://docs.brightbox.com) - Clean design, easy to navigate, very in-depth.
-* [Riaknostic](http://riaknostic.basho.com) - Made possible by [Bootstrap](https://github.com/twitter/bootstrap), this is a great example of a project homepage that doubles as a documentation teaser.
+* [Riaknostic](http://riaknostic.basho.com) - Made possible by [Bootstrap](https://github.com/twbs/bootstrap), this is a great example of a project homepage that doubles as a documentation teaser.
 * [GitHub Developer Docs](http://developer.github.com/v3/) - I don't always get excited about accordion-based navigation, but when I do...
 * [Dropwizard](http://dropwizard.codahale.com/) - Beautiful and concise; another Bootstrap joint. ([Coda Hale's Metrics Library](http://metrics.codahale.com/index.html) uses the same design and is equally as deserving of developer adoration (contributed by [mrtazz](https://twitter.com/#!/mrtazz)).)
 * [Riak Pipe README](https://github.com/basho/riak_pipe) - The simplicity of READMEs means that you can't obscure shitty content with flashy design. This one is written by my Basho colleague [Bryan Fink](https://twitter.com/#!/hobbyist) and should be committed to memory as an excellent example of how to write READMEs.
@@ -29,7 +29,7 @@ This should be updated fairly regularly. As usual, **pull requests are encourage
 * [Why's (Poignant) Guide to Ruby](http://mislav.uniqpath.com/poignant-guide/) (contributed by [@joedevivo](https://twitter.com/#!/joedevivo))
 * [A Beginner's Guide To HTML and CSS](http://learn.shayhowe.com/html-css/terminology-syntax-intro)
 * [CodeIgnitor](http://codeigniter.com/user_guide/toc.html) (contributed by [@joshuapoehls](https://twitter.com/#!/joshuapoehls))
-* [Twitter Bootstrap](http://twitter.github.com/bootstrap/) and [v2](http://markdotto.com/bs2/docs/index.html) - Documented the project using the project. (contributed by [@kylewest](https://twitter.com/kylewest))
+* [Bootstrap](http://getbootstrap.com/) and [v2](http://markdotto.com/bs2/docs/index.html) - Documented the project using the project. (contributed by [@kylewest](https://twitter.com/kylewest))
 * [hogan.js](http://twitter.github.com/hogan.js/) - Simple and Beautiful. (contributed by [@kylewest](https://twitter.com/kylewest))
 * [Scala Documentation](http://docs.scala-lang.org/) - Beautifully-styled Scala documentation site. (Contributed by [David M. Lee](https://github.com/leedm777))
 * [Linode Library](http://library.linode.com) (contributed by [@davidmatas](https://twitter.com/#!/davidmatas))
