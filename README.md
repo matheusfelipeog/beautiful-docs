@@ -12,7 +12,6 @@ This should be updated fairly regularly. As usual, **pull requests are encourage
 
 * [Redis Commands](http://redis.io/commands) - Most of the Redis docs are exceptional, but this section really epitomizes the combination of good design and usability. And all the individual command pages give you the ability to test things out without leaving the page. Pretty close to perfect.
 * [BrightBox Developer Docs](http://docs.brightbox.com) - Clean design, easy to navigate, very in-depth.
-* [Riaknostic](http://riaknostic.basho.com) - Made possible by [Bootstrap](https://github.com/twitter/bootstrap), this is a great example of a project homepage that doubles as a documentation teaser.
 * [GitHub Developer Docs](http://developer.github.com/v3/) - I don't always get excited about accordion-based navigation, but when I do...
 * [Dropwizard](http://dropwizard.codahale.com/) - Beautiful and concise; another Bootstrap joint. ([Coda Hale's Metrics Library](http://metrics.codahale.com/index.html) uses the same design and is equally as deserving of developer adoration (contributed by [mrtazz](https://twitter.com/#!/mrtazz)).)
 * [Riak Pipe README](https://github.com/basho/riak_pipe) - The simplicity of READMEs means that you can't obscure shitty content with flashy design. This one is written by my Basho colleague [Bryan Fink](https://twitter.com/#!/hobbyist) and should be committed to memory as an excellent example of how to write READMEs.
@@ -28,7 +27,6 @@ This should be updated fairly regularly. As usual, **pull requests are encourage
 * [CoffeeScript](http://coffeescript.org/) (contributed by [@joedevivo](https://twitter.com/#!/joedevivo))
 * [Why's (Poignant) Guide to Ruby](http://mislav.uniqpath.com/poignant-guide/) (contributed by [@joedevivo](https://twitter.com/#!/joedevivo))
 * [A Beginner's Guide To HTML and CSS](http://learn.shayhowe.com/html-css/terminology-syntax-intro)
-* [CodeIgnitor](http://codeigniter.com/user_guide/toc.html) (contributed by [@joshuapoehls](https://twitter.com/#!/joshuapoehls))
 * [Twitter Bootstrap](http://twitter.github.com/bootstrap/) and [v2](http://markdotto.com/bs2/docs/index.html) - Documented the project using the project. (contributed by [@kylewest](https://twitter.com/kylewest))
 * [hogan.js](http://twitter.github.com/hogan.js/) - Simple and Beautiful. (contributed by [@kylewest](https://twitter.com/kylewest))
 * [Scala Documentation](http://docs.scala-lang.org/) - Beautifully-styled Scala documentation site. (Contributed by [David M. Lee](https://github.com/leedm777))
@@ -36,8 +34,6 @@ This should be updated fairly regularly. As usual, **pull requests are encourage
 * [Brighter Planet API](http://impact.brighterplanet.com/documentation) along with [live examples](http://impact.brighterplanet.com/models/automobile), [methodology statements for calculations](http://impact.brighterplanet.com/automobiles?make=saab&model=900s&year=1990), and [calculation methodology source narratives](http://brighterplanet.github.com/automobile/impact_model.html) (contributed by [Derek Kastner](https://github.com/dkastner))
 * [Symfony2 Docs](http://symfony.com/doc/current/) (contributed by [Rodney Keeling](https://github.com/rodneykeeling))
 * [Ruby on Rails Tutorial](http://ruby.railstutorial.org/ruby-on-rails-tutorial-book?version=3.2) (contributed by [Paul Stefen Ort](https://github.com/paulstefanort))
-* [CamanJS Documentation](http://camanjs.com/docs) (contributed by [@meltingice](https://twitter.com/meltingice))
-* [DocumentUp](http://documentup.com/) - A documentation site generator for Github projects. (contributed by [Jerome Gravel-Niquet](https://github.com/jeromegn))
 * [Pyramid Documentation](http://docs.pylonsproject.org/en/latest/docs/pyramid.html) (contributed by [csenger](https://github.com/csenger))
 * [Number Laundry API](http://numberlaundry.whatcheer.com/) - Fun design, simple examples. (contributed by [@jmhobbs](https://twitter.com/jmhobbs))
 * [Backbone.js](http://documentcloud.github.com/backbone/) and [Underscore.js](http://underscorejs.org) - Simple, clean, single page. (contributed by [@twe4ked](http://twitter.com/twe4ked))
@@ -46,20 +42,18 @@ This should be updated fairly regularly. As usual, **pull requests are encourage
 * [Leaflet](http://leaflet.cloudmade.com/reference.html) - Simple and elegant single page docs. (contributed by [@mourner](http://github.com/mourner))
 * [rubyamqp.info](http://rubyamqp.info) - A number of in-depth guides that cover Ruby amqp gem but also try to explain AMQP 0.9.1 features, why they exist and how they are supposed to be used. (contributed by [Michael Klishin](https://twitter.com/#!/michaelklishin/))
 * [Savon.rb](http://savonrb.com/) (contributed by [Mathias Meyer](https://twitter.com/#!/roidrage))
-* [Mozilla Developer Networks - Best Documentation on all Web Technologies](https://developer.mozilla.org/en-US/) (contributed by [Rajeev N B @rBharshetty](https://twitter.com/#!/rBharshetty))
+* [Mozilla Developer Networks](https://developer.mozilla.org/en-US/) (contributed by [Rajeev N B @rBharshetty](https://twitter.com/#!/rBharshetty))
 * [Android Developer Documentation](http://developer.android.com/guide/index.html) (contributed by [Rajeev N B @rBharshetty](https://twitter.com/#!/rBharshetty))
 * [ØMQ - The Guide](http://zguide.zeromq.org/page:all) - Exciting documentation for an exciting lib. Concise working code examples available in multiple languages. Concepts are explained clearly. (contributed by [kindkid](https://github.com/kindkid))
 * [Postmark Developer Docs](http://developer.postmarkapp.com/) - Simple, easy to navigate, informative.
 * [Twitter Developers Docs](https://dev.twitter.com/docs) -  In-depth and very well organized. (contributed by [@tsantero](https://twitter.com/#!/tsantero))
 * [GitHub Styleguide](https://github.com/styleguide) - Pragmatic styleguide with sections on Ruby, JavaScript and CSS. By the guys at [@github](https://twitter.com/github) (contributed by [@lenary](https://twitter.com/#!/lenary))
 * [Moment.js](http://momentjs.com/docs) - Thorough, well-designed, and excellent use of top-nav.  (contributed by [@joshuapoehls](https://twitter.com/#!/joshuapoehls))
-* [Behat](http://behat.org) - StoryBDD framework for PHP inspired by Ruby Cucumber. (contributed by [@everzet](https://github.com/everzet))
 * [Solarized](http://ethanschoonover.com/solarized) - Beautiful documentation about a color scheme, using the color scheme from [Ethan Schoonover](https://github.com/altercation). (contributed by [@seancribbs](http://twitter.com/seancribbs))
-* [Ember.js](http://emberjs.com/documentation/) - The overall navigation could be done a bit better but the presentation and readability is quite nice. (contributed by [@cmeik](https://twitter.com/cmeik))
+* [Ember.js](http://emberjs.com/guides/) - The overall navigation could be done a bit better but the presentation and readability is quite nice. (contributed by [@cmeik](https://twitter.com/cmeik))
 * [DotCloud Platform Docs](http://docs.dotcloud.com/firststeps/platform-overview/) - Responsive, focused, simple, and all-around useable.
 * [Mashape API Docs](https://www.mashape.com/japerk/text-processing) - Clean auto-generated documentations for APIs
 * [Basho Docs](http://docs.basho.com/) - Well-designed, excellent use of versioning, integrated search, and much more.
-* [spray.io Docs](http://spray.io) - Well-structured, clean, responsive, comprehensive. Bootstrap-based design.
 * [Go By Example](http://gobyexample.com) - Clean, simple, and extensive. These docs that make you want to learn Go just because they make it so straightforward.
 * [99s Ranch User Guide](http://ninenines.eu/docs/en/ranch/HEAD/guide/introduction) - Pretty clear and thorough user guide. (contributed by [@lenary](https://twitter.com/#!/lenary))
 * [gevent API Docs](http://www.gevent.org/intro.html) - Clean, polished docs for gevent. (contributed by [rubik](https://github.com/rubik))
@@ -67,8 +61,7 @@ This should be updated fairly regularly. As usual, **pull requests are encourage
 * [CodernityDB](http://labs.codernity.com/codernitydb/index.html) - Clean, extensive, useful. I also love the fact that the day the software was released the documentation was this extensive.
 * [Riemann](http://riemann.io/) - Great design, easy to read, and very thorough with introductory and advanced topics.
 * [Pretty RFC](http://pretty-rfc.herokuapp.com/) - Reworked [IETF](http://www.ietf.org) documents for easier viewing.
-* [Vagrant](http://docs.vagrantup.com/v2/) - Well organized, easy to read, attractive design. ([@clstokes](https://twitter.com/clstokes))
-* [Stardog](http://stardog.com/docs/) - Docs for RDF graph database; focus on clean typography. ([@kendall](https://twitter.com/kendall))
+* [Vagrant](http://docs.vagrantup.com/) - Well organized, easy to read, attractive design. ([@clstokes](https://twitter.com/clstokes))
 * [Wolfram Language](http://reference.wolfram.com/language/) - Nice top-level navigation in a grid layout. Topics grouped by color, each with a relevant graphic and on-click menu of sub-topics. (contributed by [troytop](http://github.com/troyhop))
 * [Lisp Flavored Erlang: Quick Start](http://lfe.github.com/quick-start/1.html) - Attractive presentation, nice jumpstart for the language. (contributed by [@macintux](https://twitter.com/macintux)) 
 * [Thinking Forth](http://thinking-forth.sourceforge.net) - Forth is now largely eclipsed by Factor, but the book remains an inspiring look at the ideas behind this stack-based language. (contributed by [@macintux](https://twitter.com/macintux)) 
@@ -97,3 +90,4 @@ This should be updated fairly regularly. As usual, **pull requests are encourage
 * [Slate](https://github.com/tripit/slate) - Static API documentation creation tool from the team at Tripit.  
 * [MireDot](http://www.miredot.com) - REST API documentation generator for Java. Plugs into your build process and generates a searchable html page. (contributed by [bertvh](https://github.com/bertvh))
 * [Flatdoc](http://ricostacruz.com/flatdoc/) - Create well designed open source documentation from Github repository README files or simple Markdown files. (contributed by [@moore](http://twitter.com/moore))
+* [DocumentUp](http://documentup.com/) - A documentation site generator for Github projects. (contributed by [Jerome Gravel-Niquet](https://github.com/jeromegn))
