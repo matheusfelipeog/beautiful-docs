@@ -94,4 +94,4 @@ This should be updated fairly regularly. As usual, **pull requests are encourage
 * [docgenerator](https://github.com/Ralt/docgenerator/blob/master/README.md) - Organize your documentation in Markdown files. (contributed by [Florian Margaine](http://margaine.com))
 * [dexy](http://www.dexy.it/) - Extensible documentation/report generator supporting multiple programming languages and serveral input and output formats. (contributed by [troytop](http://github.com/troytop))
 * [Slate](https://github.com/tripit/slate) - Static API documentation creation tool from the team at Tripit.  
-* [codo](https://github.com/coffeedoc/codo) - CoffeeScript API documentation generator, similar to YARD.
+* [codo](https://github.com/coffeedoc/codo) - CoffeeScript API documentation generator, similar to YARD. (contributed by [Logan Koester](http://github.com/logankoester))
