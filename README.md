@@ -16,6 +16,7 @@ This should be updated fairly regularly. As usual, **pull requests are encourage
 * [Dropwizard](http://dropwizard.codahale.com/) - Beautiful and concise; another Bootstrap joint. ([Coda Hale's Metrics Library](http://metrics.codahale.com/index.html) uses the same design and is equally as deserving of developer adoration (contributed by [mrtazz](https://twitter.com/#!/mrtazz)).)
 * [Riak Pipe README](https://github.com/basho/riak_pipe) - The simplicity of READMEs means that you can't obscure shitty content with flashy design. This one is written by my Basho colleague [Bryan Fink](https://twitter.com/#!/hobbyist) and should be committed to memory as an excellent example of how to write READMEs.
 * [Learn You Some Erlang](http://learnyousomeerlang.com/) (contributed by [@lenary](https://twitter.com/lenary)) (It should also be noted that LYSE was inspired by Miran Lipovača's [Learn You A Haskell](http://learnyouahaskell.com/).)
+* [CoreOS](http://coreos.com/docs/) Primary-colored goodness and a distributed system to boot (contributed by [@lucperkins](https://twitter.com/lucperkins))
 * [Django Documentation](https://docs.djangoproject.com/en/1.3/) (contributed by [@bretthoerner](https://twitter.com/bretthoerner))
 * [Erldocs.com](http://erldocs.com/) (contributed by [@bradfordw](https://twitter.com/#!/bradfordw))
 * [Clojuredocs.org](http://clojuredocs.org) (contributed by [@mrb_bk](https://twitter.com/#!/mrb_bk))
