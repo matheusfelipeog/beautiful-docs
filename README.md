@@ -92,4 +92,3 @@ This should be updated fairly regularly. As usual, **pull requests are encourage
 * [MireDot](http://www.miredot.com) - REST API documentation generator for Java. Plugs into your build process and generates a searchable html page. (contributed by [bertvh](https://github.com/bertvh))
 * [codo](https://github.com/coffeedoc/codo) - CoffeeScript API documentation generator, similar to YARD. (contributed by [Logan Koester](http://github.com/logankoester))
 * [Flatdoc](http://ricostacruz.com/flatdoc/) - Create well designed open source documentation from Github repository README files or simple Markdown files. (contributed by [@moore](http://twitter.com/moore))
-* [DocumentUp](http://documentup.com/) - A documentation site generator for Github projects. (contributed by [Jerome Gravel-Niquet](https://github.com/jeromegn))
