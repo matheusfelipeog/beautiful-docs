@@ -38,7 +38,7 @@ This should be updated fairly regularly. As usual, **pull requests are encourage
 * [Pyramid Documentation](http://docs.pylonsproject.org/en/latest/docs/pyramid.html) (contributed by [csenger](https://github.com/csenger))
 * [Number Laundry API](http://numberlaundry.whatcheer.com/) - Fun design, simple examples. (contributed by [@jmhobbs](https://twitter.com/jmhobbs))
 * [Backbone.js](http://documentcloud.github.com/backbone/) and [Underscore.js](http://underscorejs.org) - Simple, clean, single page. (contributed by [@twe4ked](http://twitter.com/twe4ked))
-* [lodash.js](http://lodash.com/docs) A utility library delivering consistency, customization, performance, & extras. It has a drop-in replacement for Underscore.(contributed by [@hustcer](https://github.com/hustcer))
+* [Lodash.js](http://lodash.com/docs) A utility library delivering consistency, customization, performance, & extras. It has a drop-in replacement for Underscore.(contributed by [@hustcer](https://github.com/hustcer))
 * [Qt](http://developer.qt.nokia.com/doc/qt-4.8/) - Very comprehensive documentation with tutorials and guides and great examples. (contributed by [@nikhilcutshort](https://twitter.com/nikhilcutshort))
 * [CasperJS](http://casperjs.org) - CasperJS is a navigation scripting & testing utility for PhantomJS, written in Javascript. (contributed by [@n1k0](https://twitter.com/n1k0))
 * [Leaflet](http://leaflet.cloudmade.com/reference.html) - Simple and elegant single page docs. (contributed by [@mourner](http://github.com/mourner))
