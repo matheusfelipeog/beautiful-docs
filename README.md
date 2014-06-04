@@ -38,6 +38,7 @@ This should be updated fairly regularly. As usual, **pull requests are encourage
 * [Pyramid Documentation](http://docs.pylonsproject.org/en/latest/docs/pyramid.html) (contributed by [csenger](https://github.com/csenger))
 * [Number Laundry API](http://numberlaundry.whatcheer.com/) - Fun design, simple examples. (contributed by [@jmhobbs](https://twitter.com/jmhobbs))
 * [Backbone.js](http://documentcloud.github.com/backbone/) and [Underscore.js](http://underscorejs.org) - Simple, clean, single page. (contributed by [@twe4ked](http://twitter.com/twe4ked))
+* [lodash.js](http://lodash.com/docs) A utility library delivering consistency, customization, performance, & extras. It has a drop-in replacement for Underscore.(contributed by [@hustcer](https://github.com/hustcer))
 * [Qt](http://developer.qt.nokia.com/doc/qt-4.8/) - Very comprehensive documentation with tutorials and guides and great examples. (contributed by [@nikhilcutshort](https://twitter.com/nikhilcutshort))
 * [CasperJS](http://casperjs.org) - CasperJS is a navigation scripting & testing utility for PhantomJS, written in Javascript. (contributed by [@n1k0](https://twitter.com/n1k0))
 * [Leaflet](http://leaflet.cloudmade.com/reference.html) - Simple and elegant single page docs. (contributed by [@mourner](http://github.com/mourner))
@@ -64,9 +65,9 @@ This should be updated fairly regularly. As usual, **pull requests are encourage
 * [Pretty RFC](http://pretty-rfc.herokuapp.com/) - Reworked [IETF](http://www.ietf.org) documents for easier viewing.
 * [Vagrant](http://docs.vagrantup.com/) - Well organized, easy to read, attractive design. ([@clstokes](https://twitter.com/clstokes))
 * [Wolfram Language](http://reference.wolfram.com/language/) - Nice top-level navigation in a grid layout. Topics grouped by color, each with a relevant graphic and on-click menu of sub-topics. (contributed by [troytop](http://github.com/troyhop))
-* [Lisp Flavored Erlang: Quick Start](http://lfe.github.com/quick-start/1.html) - Attractive presentation, nice jumpstart for the language. (contributed by [@macintux](https://twitter.com/macintux)) 
-* [Thinking Forth](http://thinking-forth.sourceforge.net) - Forth is now largely eclipsed by Factor, but the book remains an inspiring look at the ideas behind this stack-based language. (contributed by [@macintux](https://twitter.com/macintux)) 
-* [Packer Documentation](http://www.packer.io/docs) - These are just lovely. 
+* [Lisp Flavored Erlang: Quick Start](http://lfe.github.com/quick-start/1.html) - Attractive presentation, nice jumpstart for the language. (contributed by [@macintux](https://twitter.com/macintux))
+* [Thinking Forth](http://thinking-forth.sourceforge.net) - Forth is now largely eclipsed by Factor, but the book remains an inspiring look at the ideas behind this stack-based language. (contributed by [@macintux](https://twitter.com/macintux))
+* [Packer Documentation](http://www.packer.io/docs) - These are just lovely.
 * [Abjad: Modeling Music in Python](http://abjad.mbrsi.org/) - Clean styling, and impressive integration of figures and diagrams. (contributed by [@adorsk](https://github.com/adorsk))
 * [SqlAlchemy](http://docs.sqlalchemy.org/) - One of the most comprehensive pieces of documentation I've ever seen, with excellent linking and layout. (contributed by [@adorsk](https://github.com/adorsk))
 
@@ -88,7 +89,7 @@ This should be updated fairly regularly. As usual, **pull requests are encourage
 * [ApiGen](http://apigen.org/) - Creates clean API documentation from PHP source code (contributed by [bryceadams](http://bryce.se/))
 * [docgenerator](https://github.com/Ralt/docgenerator/blob/master/README.md) - Organize your documentation in Markdown files. (contributed by [Florian Margaine](http://margaine.com))
 * [dexy](http://www.dexy.it/) - Extensible documentation/report generator supporting multiple programming languages and serveral input and output formats. (contributed by [troytop](http://github.com/troytop))
-* [Slate](https://github.com/tripit/slate) - Static API documentation creation tool from the team at Tripit.  
+* [Slate](https://github.com/tripit/slate) - Static API documentation creation tool from the team at Tripit.
 * [MireDot](http://www.miredot.com) - REST API documentation generator for Java. Plugs into your build process and generates a searchable html page. (contributed by [bertvh](https://github.com/bertvh))
 * [codo](https://github.com/coffeedoc/codo) - CoffeeScript API documentation generator, similar to YARD. (contributed by [Logan Koester](http://github.com/logankoester))
 * [Flatdoc](http://ricostacruz.com/flatdoc/) - Create well designed open source documentation from Github repository README files or simple Markdown files. (contributed by [@moore](http://twitter.com/moore))
