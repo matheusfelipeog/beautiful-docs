@@ -93,3 +93,4 @@ This should be updated fairly regularly. As usual, **pull requests are encourage
 * [codo](https://github.com/coffeedoc/codo) - CoffeeScript API documentation generator, similar to YARD. (contributed by [Logan Koester](http://github.com/logankoester))
 * [Flatdoc](http://ricostacruz.com/flatdoc/) - Create well designed open source documentation from Github repository README files or simple Markdown files. (contributed by [@moore](http://twitter.com/moore))
 * [GitBook](https://github.com/GitbookIO/gitbook) - Utility for generating documentation, books and exercises using GitHub/Git and Markdown. (contributed by [Samy Pessé](https://github.com/SamyPesse))
+* [DAUX.IO](http://daux.io/) - Daux.io is an documentation generator that uses a simple folder structure and Markdown files to create custom documentation on the fly. It helps you create great looking documentation in a developer friendly way. (contributed by [Justin Walsh](https://github.com/justinwalsh))
