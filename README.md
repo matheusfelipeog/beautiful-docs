@@ -69,6 +69,7 @@ This should be updated fairly regularly. As usual, **pull requests are encourage
 * [Packer Documentation](http://www.packer.io/docs) - These are just lovely. 
 * [Abjad: Modeling Music in Python](http://abjad.mbrsi.org/) - Clean styling, and impressive integration of figures and diagrams. (contributed by [@adorsk](https://github.com/adorsk))
 * [SqlAlchemy](http://docs.sqlalchemy.org/) - One of the most comprehensive pieces of documentation I've ever seen, with excellent linking and layout. (contributed by [@adorsk](https://github.com/adorsk))
+* [Rust Guides](http://doc.rust-lang.org/guide.html) - Rust is a pre-1.0 language with a constantly changing API, but the docs (written by [Steve Klabnik](https://github.com/steveklabnik)) are clearly a high priority. The guides in particular illustrate core concepts of the standard library in a conversational and extremely accessible style. (contributed by [Nick Cox](https://github.com/thenickcox)
 
 
 ### Writing about Docs (again, in no particular order)
