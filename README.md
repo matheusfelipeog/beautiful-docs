@@ -93,4 +93,4 @@ This should be updated fairly regularly. As usual, **pull requests are encourage
 * [codo](https://github.com/coffeedoc/codo) - CoffeeScript API documentation generator, similar to YARD. (contributed by [Logan Koester](http://github.com/logankoester))
 * [Flatdoc](http://ricostacruz.com/flatdoc/) - Create well designed open source documentation from Github repository README files or simple Markdown files. (contributed by [@moore](http://twitter.com/moore))
 * [GitBook](https://github.com/GitbookIO/gitbook) - Utility for generating documentation, books and exercises using GitHub/Git and Markdown. (contributed by [Samy Pessé](https://github.com/SamyPesse))
-* [comment.js](https://github.com/dciccale/comment.js) Simple API documentation generator. Create beautyful docs in an easy an flexible way.
+* [comment.js](https://github.com/dciccale/comment.js) Simple API documentation generator. Create beautiful docs in an easy an flexible way.
