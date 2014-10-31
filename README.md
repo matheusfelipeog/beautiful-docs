@@ -69,6 +69,7 @@ This should be updated fairly regularly. As usual, **pull requests are encourage
 * [Packer Documentation](http://www.packer.io/docs) - These are just lovely. 
 * [Abjad: Modeling Music in Python](http://abjad.mbrsi.org/) - Clean styling, and impressive integration of figures and diagrams. (contributed by [@adorsk](https://github.com/adorsk))
 * [SqlAlchemy](http://docs.sqlalchemy.org/) - One of the most comprehensive pieces of documentation I've ever seen, with excellent linking and layout. (contributed by [@adorsk](https://github.com/adorsk))
+* [Racket  Documentation](http://docs.racket-lang.org/) - Best language documentation I have ever seen. Well structured where all language features layed out easy to find. Best code examples and explainations I have ever used. (contributed by [@levibostian](https://github.com/levibostian))
 
 
 ### Writing about Docs (again, in no particular order)
