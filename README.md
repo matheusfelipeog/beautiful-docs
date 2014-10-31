@@ -70,7 +70,7 @@ This should be updated fairly regularly. As usual, **pull requests are encourage
 * [Abjad: Modeling Music in Python](http://abjad.mbrsi.org/) - Clean styling, and impressive integration of figures and diagrams. (contributed by [@adorsk](https://github.com/adorsk))
 * [SqlAlchemy](http://docs.sqlalchemy.org/) - One of the most comprehensive pieces of documentation I've ever seen, with excellent linking and layout. (contributed by [@adorsk](https://github.com/adorsk))
 * [Sonata Project](http://sonata-project.org/bundles/) - All the Sonata Project bundles for Symfony2 on a single page. These have a nice, clear layout. (contributed by [@NoScopie](https://github.com/NoScopie))
-
+* [Laravel](http://laravel.com/docs) - Easily-readable and well-organized docs. Navigation is well formatted and articles are easy to consume. (contributed by [@ToddSmithSalter](https://github.com/toddsmithsalter))
 
 ### Writing about Docs (again, in no particular order)
 
