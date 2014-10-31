@@ -98,3 +98,4 @@ This should be updated fairly regularly. As usual, **pull requests are encourage
 * [Flatdoc](http://ricostacruz.com/flatdoc/) - Create well designed open source documentation from Github repository README files or simple Markdown files. (contributed by [@moore](http://twitter.com/moore))
 * [GitBook](https://github.com/GitbookIO/gitbook) - Utility for generating documentation, books and exercises using GitHub/Git and Markdown. (contributed by [Samy Pessé](https://github.com/SamyPesse))
 * [Daux](https://github.com/justinwalsh/daux.io) - A documentation generator that uses a simple folder structure and Markdown files to create custom documentation on the fly. It helps you create great looking documentation in a developer friendly way. (contributed by [veshinak](https://github.com/veshinak))
+* [comment.js](https://github.com/dciccale/comment.js) Simple API documentation generator. (contributed by [@dciccale](https://github.com/diccale))
