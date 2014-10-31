@@ -18,7 +18,6 @@ This should be updated fairly regularly. As usual, **pull requests are encourage
 * [Learn You Some Erlang](http://learnyousomeerlang.com/) (contributed by [@lenary](https://twitter.com/lenary)) (It should also be noted that LYSE was inspired by Miran Lipovača's [Learn You A Haskell](http://learnyouahaskell.com/).)
 * [CoreOS](http://coreos.com/docs/) Primary-colored goodness and a distributed system to boot (contributed by [@lucperkins](https://twitter.com/lucperkins))
 * [Django Documentation](https://docs.djangoproject.com/en/1.6/) (contributed by [@bretthoerner](https://twitter.com/bretthoerner))
-* [Erldocs.com](http://erldocs.com/) (contributed by [@bradfordw](https://twitter.com/#!/bradfordw))
 * [Clojuredocs.org](http://clojuredocs.org) (contributed by [@mrb_bk](https://twitter.com/#!/mrb_bk))
 * [FreeBSD Handbook](http://www.freebsd.org/handbook/) - Clean and direct documentation of an OS. (contributed by [@mrtazz](https://twitter.com/#!/mrtazz))
 * [Ruby on Rails Guides](http://guides.rubyonrails.org/) (contributed by [@seancribbs](https://twitter.com/#!/seancribbs))
@@ -27,7 +26,6 @@ This should be updated fairly regularly. As usual, **pull requests are encourage
 * [Librato Developer Docs](http://dev.librato.com/) - Librato's RESTful API documentation. (contributed by [@josephruscio](https://twitter.com/josephruscio))
 * [CoffeeScript](http://coffeescript.org/) (contributed by [@joedevivo](https://twitter.com/#!/joedevivo))
 * [Why's (Poignant) Guide to Ruby](http://mislav.uniqpath.com/poignant-guide/) (contributed by [@joedevivo](https://twitter.com/#!/joedevivo))
-* [A Beginner's Guide To HTML and CSS](http://learn.shayhowe.com/html-css/terminology-syntax-intro)
 * [Twitter Bootstrap](http://twitter.github.com/bootstrap/) and [v2](http://markdotto.com/bs2/docs/index.html) - Documented the project using the project. (contributed by [@kylewest](https://twitter.com/kylewest))
 * [hogan.js](http://twitter.github.com/hogan.js/) - Simple and Beautiful. (contributed by [@kylewest](https://twitter.com/kylewest))
 * [Scala Documentation](http://docs.scala-lang.org/) - Beautifully-styled Scala documentation site. (Contributed by [David M. Lee](https://github.com/leedm777))
@@ -53,12 +51,10 @@ This should be updated fairly regularly. As usual, **pull requests are encourage
 * [Solarized](http://ethanschoonover.com/solarized) - Beautiful documentation about a color scheme, using the color scheme from [Ethan Schoonover](https://github.com/altercation). (contributed by [@seancribbs](http://twitter.com/seancribbs))
 * [Ember.js](http://emberjs.com/guides/) - The overall navigation could be done a bit better but the presentation and readability is quite nice. (contributed by [@cmeik](https://twitter.com/cmeik))
 * [DotCloud Platform Docs](http://docs.dotcloud.com/firststeps/platform-overview/) - Responsive, focused, simple, and all-around useable.
-* [Mashape API Docs](https://www.mashape.com/japerk/text-processing) - Clean auto-generated documentations for APIs
 * [Basho Docs](http://docs.basho.com/) - Well-designed, excellent use of versioning, integrated search, and much more.
 * [Go By Example](http://gobyexample.com) - Clean, simple, and extensive. These docs that make you want to learn Go just because they make it so straightforward.
 * [99s Ranch User Guide](http://ninenines.eu/docs/en/ranch/HEAD/guide/introduction) - Pretty clear and thorough user guide. (contributed by [@lenary](https://twitter.com/#!/lenary))
 * [gevent API Docs](http://www.gevent.org/intro.html) - Clean, polished docs for gevent. (contributed by [rubik](https://github.com/rubik))
-* [httpkit](https://httpkit.com/resources/HTTP-from-the-Command-Line/) - I dare you to tell me these docs aren't straight sex.
 * [CodernityDB](http://labs.codernity.com/codernitydb/index.html) - Clean, extensive, useful. I also love the fact that the day the software was released the documentation was this extensive.
 * [Riemann](http://riemann.io/) - Great design, easy to read, and very thorough with introductory and advanced topics.
 * [Pretty RFC](http://pretty-rfc.herokuapp.com/) - Reworked [IETF](http://www.ietf.org) documents for easier viewing.
