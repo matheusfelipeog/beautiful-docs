@@ -17,7 +17,7 @@ This should be updated fairly regularly. As usual, **pull requests are encourage
 * [Riak Pipe README](https://github.com/basho/riak_pipe) - The simplicity of READMEs means that you can't obscure shitty content with flashy design. This one is written by my Basho colleague [Bryan Fink](https://twitter.com/#!/hobbyist) and should be committed to memory as an excellent example of how to write READMEs.
 * [Learn You Some Erlang](http://learnyousomeerlang.com/) (contributed by [@lenary](https://twitter.com/lenary)) (It should also be noted that LYSE was inspired by Miran Lipovača's [Learn You A Haskell](http://learnyouahaskell.com/).)
 * [CoreOS](http://coreos.com/docs/) Primary-colored goodness and a distributed system to boot (contributed by [@lucperkins](https://twitter.com/lucperkins))
-* [Django Documentation](https://docs.djangoproject.com/en/1.3/) (contributed by [@bretthoerner](https://twitter.com/bretthoerner))
+* [Django Documentation](https://docs.djangoproject.com/en/1.6/) (contributed by [@bretthoerner](https://twitter.com/bretthoerner))
 * [Erldocs.com](http://erldocs.com/) (contributed by [@bradfordw](https://twitter.com/#!/bradfordw))
 * [Clojuredocs.org](http://clojuredocs.org) (contributed by [@mrb_bk](https://twitter.com/#!/mrb_bk))
 * [FreeBSD Handbook](http://www.freebsd.org/handbook/) - Clean and direct documentation of an OS. (contributed by [@mrtazz](https://twitter.com/#!/mrtazz))
@@ -85,6 +85,7 @@ This should be updated fairly regularly. As usual, **pull requests are encourage
 * [docco](http://jashkenas.github.com/docco/) - Pretty docs from source code comments with ports for many languages. (contributed by [@kylewest](https://twitter.com/kylewest))
 * [DocumentUp](http://documentup.com/) - Instantly beautify your Github repositories' `README.md`. (contributed by [@kylewest](https://twitter.com/kylewest))
 * [Sphinx](http://sphinx.pocoo.org/) - Comprehensive documentation tool using restructuredText with beautiful HTML and PDF output. (contributed by [@nikhilcutshort](https://twitter.com/nikhilcutshort))
+* [Read the Docs](https://readthedocs.org/) - Hosted docs using Sphinx, supports translations and finding docs for specific software versions. Used the Django Docs (contributed by [Stephen Paulger](https://github.com/stephenpaulger))
 * [dr.js](https://github.com/adobe-webplatform/dr.js) - Tiny JavaScript documentation generator from the author of RaphaëlJS.  (contributed by [@nikhilcutshort](https://twitter.com/nikhilcutshort))
 * [Markdoc](http://markdoc.org/) - Lightweight documentation/wiki generator in Python, released in the [public domain](http://unlicense.org/). (contributed by [Neelfyn](http://neelfyn.info/))
 * [ApiGen](http://apigen.org/) - Creates clean API documentation from PHP source code (contributed by [bryceadams](http://bryce.se/))
