@@ -96,3 +96,4 @@ This should be updated fairly regularly. As usual, **pull requests are encourage
 * [Daux](https://github.com/justinwalsh/daux.io) - A documentation generator that uses a simple folder structure and Markdown files to create custom documentation on the fly. It helps you create great looking documentation in a developer friendly way. (contributed by [veshinak](https://github.com/veshinak))
 * [comment.js](https://github.com/dciccale/comment.js) Simple API documentation generator. (contributed by [@dciccale](https://github.com/diccale))
 * [phpDocumentor](http://www.phpdoc.org/) - phpDocumentor enables you to generate documentation from your PHP source code. (contributed by [shivamdixit](http://shivamdixit.com))
+* [Middleman](https://middlemanapp.com/) - Static site generator using all the shortcuts and tools in modern web development.
