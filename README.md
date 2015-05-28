@@ -69,6 +69,7 @@ This should be updated fairly regularly. As usual, **pull requests are encourage
 * [Laravel](http://laravel.com/docs) - Easily-readable and well-organized docs. Navigation is well formatted and articles are easy to consume. (contributed by [@ToddSmithSalter](https://github.com/toddsmithsalter))
 * [FullCalendar](http://arshaw.com/fullcalendar/docs/) – Concise overview of all APIs on a single page, and in-depth descriptions for each. (contributed by [@gr2m](https://github.com/gr2m/))
 * [Rust Guides](http://doc.rust-lang.org/guide.html) - Rust is a pre-1.0 language with a constantly-changing API, but the docs (written by [Steve Klabnik](https://github.com/steveklabnik)) are clearly a high priority. The guides in particular illustrate core concepts of the standard library in a conversational, accessible style. (contributed by [Nick Cox](https://github.com/thenickcox)
+* [Elastic](https://www.elastic.co/guide/index.html) - Elasticsearch is a search server based on Lucene. It provides a distributed, multitenant-capable full-text search engine with a RESTful web interface and schema-free JSON documents. Elasticsearch is developed in Java and is released as open source under the terms of the Apache License. Elasticsearch is the second most popular enterprise search engine. (contributed by [@NoScopie](https://github.com/NoScopie))
 
 ### Writing about Docs (again, in no particular order)
 
