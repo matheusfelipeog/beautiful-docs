@@ -70,6 +70,7 @@ This should be updated fairly regularly. As usual, **pull requests are encourage
 * [FullCalendar](http://arshaw.com/fullcalendar/docs/) – Concise overview of all APIs on a single page, and in-depth descriptions for each. (contributed by [@gr2m](https://github.com/gr2m/))
 * [Rust Guides](http://doc.rust-lang.org/guide.html) - Rust is a pre-1.0 language with a constantly-changing API, but the docs (written by [Steve Klabnik](https://github.com/steveklabnik)) are clearly a high priority. The guides in particular illustrate core concepts of the standard library in a conversational, accessible style. (contributed by [Nick Cox](https://github.com/thenickcox)
 * [MongoDB Manual](http://docs.mongodb.org/manual/) - Easy to navigate, clean, carefully and well designed manual. (contributed by [ericbn](https://github.com/ericbn))
+* [Mailgun Documentation](https://documentation.mailgun.com) - Email service for developers. Language selector, API code samples, editable in the browser, created with Sphinx. (contributed by [@leemunroe](https://github.com/leemunroe))
 
 ### Writing about Docs (again, in no particular order)
 
@@ -100,4 +101,4 @@ This should be updated fairly regularly. As usual, **pull requests are encourage
 * [phpDocumentor](http://www.phpdoc.org/) - phpDocumentor enables you to generate documentation from your PHP source code. (contributed by [shivamdixit](http://shivamdixit.com))
 * [Hologram](http://trulia.github.io/hologram/) - Hologram is a Ruby gem that parses comments in your CSS and helps you turn them into a beautiful style guide. (contributed by [@jchild3rs](http://github.com/jchild3rs))
 * [Middleman](https://middlemanapp.com/) - Static site generator using all the shortcuts and tools in modern web development. (contributed by [Sota Yamashtia](https://github.com/sotayamashita))
-* [Mailgun Documentation](https://documentation.mailgun.com) - Email service for developers. Language selector, API code samples, editable in the browser, created with Sphinx. (contributed by [@leemunroe](https://github.com/leemunroe))
+* [Swig Documentation](http://paularmstrong.github.io/swig/docs/) - A Node.js and Browser-based JavaScript Template Engine. (contributed by [Wil Moore III](https://github.com/wilmoore))
