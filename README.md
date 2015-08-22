@@ -69,6 +69,7 @@ This should be updated fairly regularly. As usual, **pull requests are encourage
 * [Laravel](http://laravel.com/docs) - Easily-readable and well-organized docs. Navigation is well formatted and articles are easy to consume. (contributed by [@ToddSmithSalter](https://github.com/toddsmithsalter))
 * [FullCalendar](http://arshaw.com/fullcalendar/docs/) – Concise overview of all APIs on a single page, and in-depth descriptions for each. (contributed by [@gr2m](https://github.com/gr2m/))
 * [Rust Guides](http://doc.rust-lang.org/guide.html) - Rust is a pre-1.0 language with a constantly-changing API, but the docs (written by [Steve Klabnik](https://github.com/steveklabnik)) are clearly a high priority. The guides in particular illustrate core concepts of the standard library in a conversational, accessible style. (contributed by [Nick Cox](https://github.com/thenickcox)
+* [MongoDB Manual](http://docs.mongodb.org/manual/) - Easy to navigate, clean, carefully and well designed manual. (contributed by [ericbn](https://github.com/ericbn))
 
 ### Writing about Docs (again, in no particular order)
 
@@ -82,7 +83,8 @@ This should be updated fairly regularly. As usual, **pull requests are encourage
 * [docco](http://jashkenas.github.com/docco/) - Pretty docs from source code comments with ports for many languages. (contributed by [@kylewest](https://twitter.com/kylewest))
 * [DocumentUp](http://documentup.com/) - Instantly beautify your Github repositories' `README.md`. (contributed by [@kylewest](https://twitter.com/kylewest))
 * [Sphinx](http://sphinx.pocoo.org/) - Comprehensive documentation tool using restructuredText with beautiful HTML and PDF output. (contributed by [@nikhilcutshort](https://twitter.com/nikhilcutshort))
-* [Read the Docs](https://readthedocs.org/) - Hosted docs using Sphinx, supports translations and finding docs for specific software versions. Used the Django Docs (contributed by [Stephen Paulger](https://github.com/stephenpaulger))
+* [MkDocs](http://www.mkdocs.org/) - Documentation with Markdown, written in Python. (contributed by [ericbn](https://github.com/ericbn))
+* [Read the Docs](https://readthedocs.org/) - Hosted docs using Sphinx or MkDocs, supports translations and finding docs for specific software versions. Used by the Django Docs. (contributed by [Stephen Paulger](https://github.com/stephenpaulger))
 * [dr.js](https://github.com/adobe-webplatform/dr.js) - Tiny JavaScript documentation generator from the author of RaphaëlJS.  (contributed by [@nikhilcutshort](https://twitter.com/nikhilcutshort))
 * [Markdoc](http://markdoc.org/) - Lightweight documentation/wiki generator in Python, released in the [public domain](http://unlicense.org/). (contributed by [Neelfyn](http://neelfyn.info/))
 * [ApiGen](http://apigen.org/) - Creates clean API documentation from PHP source code (contributed by [bryceadams](http://bryce.se/))
