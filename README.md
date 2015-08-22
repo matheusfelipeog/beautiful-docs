@@ -99,3 +99,4 @@ This should be updated fairly regularly. As usual, **pull requests are encourage
 * [comment.js](https://github.com/dciccale/comment.js) Simple API documentation generator. (contributed by [@dciccale](https://github.com/diccale))
 * [phpDocumentor](http://www.phpdoc.org/) - phpDocumentor enables you to generate documentation from your PHP source code. (contributed by [shivamdixit](http://shivamdixit.com))
 * [Hologram](http://trulia.github.io/hologram/) - Hologram is a Ruby gem that parses comments in your CSS and helps you turn them into a beautiful style guide. (contributed by [@jchild3rs](http://github.com/jchild3rs))
+* [Middleman](https://middlemanapp.com/) - Static site generator using all the shortcuts and tools in modern web development. (contributed by [Sota Yamashtia](https://github.com/sotayamashita))
