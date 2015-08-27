@@ -4,11 +4,13 @@ I love documentation. If you work with/are writing code intended for usage and c
 
 With that in mind, here's a list of docs and other developer resources that myself and others find particularly useful, well-written, and otherwise "beautiful." May they serve to inspire you when writing and designing yours. Thanks to various contributors, we now also have sections dedicated to [Writing about Documentation](#writing-about-docs-again-in-no-particular-order) and [Tools for Generating Docs](#generating-docs).
 
-This should be updated fairly regularly. As usual, **pull requests are encouraged**. *If you're contributing a link, be sure to include a few words on why you're adding it and some sort of self-attribution so that people can know from whom it came.*
+This should be updated fairly regularly. As usual, **pull requests are encouraged**. 
+* If you're contributing a link, be sure to include a few words on why you're adding it and some sort of self-attribution so that people can know from whom it came.*
+* All docs are listed in the order they were added. Keep this order when submitting your PR. 
 
 [Mark](https://twitter.com/pharkmillups)
 
-### And Now For The Docs (in no particular order)
+### And Now For The Docs 
 
 * [Redis Commands](http://redis.io/commands) - Most of the Redis docs are exceptional, but this section really epitomizes the combination of good design and usability. And all the individual command pages give you the ability to test things out without leaving the page. Pretty close to perfect.
 * [BrightBox Developer Docs](http://docs.brightbox.com) - Clean design, easy to navigate, very in-depth.
@@ -70,7 +72,7 @@ This should be updated fairly regularly. As usual, **pull requests are encourage
 * [Mailgun Documentation](https://documentation.mailgun.com) - Email service for developers. Language selector, API code samples, editable in the browser, created with Sphinx. (contributed by [@leemunroe](https://github.com/leemunroe))
 * [Grav Documentation](http://learn.getgrav.org) - Documentation for Grav, a modern open source flat-file CMS. Tightly integrated with GitHub in markdown format, with quick search and highlight. (contributed by [@rhuk](https://twitter.com/rhuk))
 
-### Writing about Docs (again, in no particular order)
+### Writing about Docs 
 
 * [Designing Great API Docs](http://blog.parse.com/learn/engineering/designing-great-api-docs/) - Blog post by [@jamesyu](https://twitter.com/jamesjyu) about what he/Parse finds essential in API Docs. (contributed by [@hobbyist](https://twitter.com/https://twitter.com/#!/hobbyist))
 * [TomDoc](http://tomdoc.org/) - A specification for Ruby library API docs by [@mojombo](https://twitter.com/mojombo) (contributed by [@lenary](https://twitter.com/#!/lenary))
