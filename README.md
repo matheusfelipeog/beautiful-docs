@@ -68,10 +68,11 @@ This should be updated fairly regularly. As usual, **pull requests are encourage
 * [Rust Guides](http://doc.rust-lang.org/book/README.html) - Rust is a pre-1.0 language with a constantly-changing API, but the docs (written by [Steve Klabnik](https://github.com/steveklabnik)) are clearly a high priority. The guides in particular illustrate core concepts of the standard library in a conversational, accessible style. (contributed by [Nick Cox](https://github.com/thenickcox)
 * [MongoDB Manual](http://docs.mongodb.org/manual/) - Easy to navigate, clean, carefully and well designed manual. (contributed by [ericbn](https://github.com/ericbn))
 * [Mailgun Documentation](https://documentation.mailgun.com) - Email service for developers. Language selector, API code samples, editable in the browser, created with Sphinx. (contributed by [@leemunroe](https://github.com/leemunroe))
+* [Grav Documentation](http://learn.getgrav.org) - Documentation for Grav, a modern open source flat-file CMS. Tightly integrated with GitHub in markdown format, with quick search and highlight. (contributed by [@rhuk](https://twitter.com/rhuk))
 
 ### Writing about Docs (again, in no particular order)
 
-* [Designing Great API Docs](hhttp://blog.parse.com/learn/engineering/designing-great-api-docs/) - Blog post by [@jamesyu](https://twitter.com/jamesjyu) about what he/Parse finds essential in API Docs. (contributed by [@hobbyist](https://twitter.com/https://twitter.com/#!/hobbyist))
+* [Designing Great API Docs](http://blog.parse.com/learn/engineering/designing-great-api-docs/) - Blog post by [@jamesyu](https://twitter.com/jamesjyu) about what he/Parse finds essential in API Docs. (contributed by [@hobbyist](https://twitter.com/https://twitter.com/#!/hobbyist))
 * [TomDoc](http://tomdoc.org/) - A specification for Ruby library API docs by [@mojombo](https://twitter.com/mojombo) (contributed by [@lenary](https://twitter.com/#!/lenary))
 * [Write the Docs](http://conf.writethedocs.org) - A conference for authors of technical documentation. (contributed by [@macintux](https://twitter.com/macintux))
 * [Writing Great Documentation](http://jacobian.org/writing/great-documentation/) - Covers a variety of topics relating to writing good documentation such as content, style, formatting and so on. (contributed by [Paul A. Wilson](http://github.com/paulalexwilson)
