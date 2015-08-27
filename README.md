@@ -5,7 +5,7 @@ I love documentation. If you work with/are writing code intended for usage and c
 With that in mind, here's a list of docs and other developer resources that myself and others find particularly useful, well-written, and otherwise "beautiful." May they serve to inspire you when writing and designing yours. Thanks to various contributors, we now also have sections dedicated to [Writing about Documentation](#writing-about-docs-again-in-no-particular-order) and [Tools for Generating Docs](#generating-docs).
 
 This should be updated fairly regularly. As usual, **pull requests are encouraged**. 
-* If you're contributing a link, be sure to include a few words on why you're adding it and some sort of self-attribution so that people can know from whom it came.*
+* If you're contributing a link, be sure to include a few words on why you're adding it and some sort of self-attribution so that people can know from whom it came.
 * All docs are listed in the order they were added. Keep this order when submitting your PR. 
 
 [Mark](https://twitter.com/pharkmillups)
