@@ -71,6 +71,8 @@ This should be updated fairly regularly. As usual, **pull requests are encourage
 * [MongoDB Manual](http://docs.mongodb.org/manual/) - Easy to navigate, clean, carefully and well designed manual. (contributed by [ericbn](https://github.com/ericbn))
 * [Mailgun Documentation](https://documentation.mailgun.com) - Email service for developers. Language selector, API code samples, editable in the browser, created with Sphinx. (contributed by [@leemunroe](https://github.com/leemunroe))
 * [Grav Documentation](http://learn.getgrav.org) - Documentation for Grav, a modern open source flat-file CMS. Tightly integrated with GitHub in markdown format, with quick search and highlight. (contributed by [@rhuk](https://twitter.com/rhuk))
+* [Gentoo Handbook](https://wiki.gentoo.org/wiki/Handbook:AMD64) - Very clean, organized, newbie friendly handbook for Gentoo Linux installation.
+* [Gentoo Documentation](https://wiki.gentoo.org/wiki/Project:Documentation/Overview) - Clean, organized Gentoo Linux Documentation.
 
 ### Writing about Docs 
 
@@ -78,6 +80,7 @@ This should be updated fairly regularly. As usual, **pull requests are encourage
 * [TomDoc](http://tomdoc.org/) - A specification for Ruby library API docs by [@mojombo](https://twitter.com/mojombo) (contributed by [@lenary](https://twitter.com/#!/lenary))
 * [Write the Docs](http://conf.writethedocs.org) - A conference for authors of technical documentation. (contributed by [@macintux](https://twitter.com/macintux))
 * [Writing Great Documentation](http://jacobian.org/writing/great-documentation/) - Covers a variety of topics relating to writing good documentation such as content, style, formatting and so on. (contributed by [Paul A. Wilson](http://github.com/paulalexwilson)
+* [13 things people hate about your open source docs](http://blog.smartbear.com/careers/13-things-people-hate-about-your-open-source-docs/) - A 13 point listicle on how to make documentation better.
 
 ### Generating Docs
 
@@ -104,3 +107,4 @@ This should be updated fairly regularly. As usual, **pull requests are encourage
 * [Swig Documentation](http://paularmstrong.github.io/swig/docs/) - A Node.js and Browser-based JavaScript Template Engine. (contributed by [Wil Moore III](https://github.com/wilmoore))
 * [documentation.js](https://github.com/documentationjs/documentation) - Generates documentation from JavaScript source code. (contributed by [tmcw](https://github.com/tmcw))
 * [SassDoc](http://sassdoc.com/) - A Sass documentation generator that utilizes inline comments to make pretty and powerful docs. (contributed by [Hugo Giraudel](https://github.com/HugoGiraudel))
+* [Pickles](http://www.picklesdoc.com/#!index.md) - Pickles is an open source living documentation generator that works on feature files written in the Gherkin language.
