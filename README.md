@@ -104,3 +104,4 @@ This should be updated fairly regularly. As usual, **pull requests are encourage
 * [Swig Documentation](http://paularmstrong.github.io/swig/docs/) - A Node.js and Browser-based JavaScript Template Engine. (contributed by [Wil Moore III](https://github.com/wilmoore))
 * [documentation.js](https://github.com/documentationjs/documentation) - Generates documentation from JavaScript source code. (contributed by [tmcw](https://github.com/tmcw))
 * [SassDoc](http://sassdoc.com/) - A Sass documentation generator that utilizes inline comments to make pretty and powerful docs. (contributed by [Hugo Giraudel](https://github.com/HugoGiraudel))
+* [ApiDoc](https://github.com/apidoc/apidoc) RESTful web API Documentation Generator that creates documentation from API descriptions in your source code.
