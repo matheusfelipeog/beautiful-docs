@@ -71,6 +71,7 @@ This should be updated fairly regularly. As usual, **pull requests are encourage
 * [MongoDB Manual](http://docs.mongodb.org/manual/) - Easy to navigate, clean, carefully and well designed manual. (contributed by [ericbn](https://github.com/ericbn))
 * [Mailgun Documentation](https://documentation.mailgun.com) - Email service for developers. Language selector, API code samples, editable in the browser, created with Sphinx. (contributed by [@leemunroe](https://github.com/leemunroe))
 * [Grav Documentation](http://learn.getgrav.org) - Documentation for Grav, a modern open source flat-file CMS. Tightly integrated with GitHub in markdown format, with quick search and highlight. (contributed by [@rhuk](https://twitter.com/rhuk))
+* [Mailjet API guides](http://dev.mailjet.com/) - Great documentation with generated code samples using Slate from Tripit
 
 ### Writing about Docs 
 
