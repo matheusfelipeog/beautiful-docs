@@ -1,3 +1,5 @@
+**DO YOU WANT TO BUILD AND WRITE GLORIOUS TECHNICAL DOCUMENTATION FULL TIME? EMAIL mark@helium.com**
+
 # Beautiful Docs
 
 I love documentation. If you work with/are writing code intended for usage and consumption by more than one person, you should love it, too. Documentation and other resources will make or break the success of your project. And the more open and collaborative you want development to be, the more crucial docs become.
@@ -13,9 +15,8 @@ This should be updated fairly regularly. As usual, **pull requests are encourage
 ### And Now For The Docs 
 
 * [Redis Commands](http://redis.io/commands) - Most of the Redis docs are exceptional, but this section really epitomizes the combination of good design and usability. And all the individual command pages give you the ability to test things out without leaving the page. Pretty close to perfect.
-* [BrightBox Developer Docs](http://docs.brightbox.com) - Clean design, easy to navigate, very in-depth.
 * [GitHub Developer Docs](http://developer.github.com/v3/) - I don't always get excited about accordion-based navigation, but when I do...
-* [Dropwizard](https://dropwizard.github.io/dropwizard/) - Beautiful and concise; another Bootstrap joint. (contributed by [mrtazz](https://twitter.com/#!/mrtazz)).)
+* [Dropwizard](http://www.dropwizard.io/) - Beautiful and concise; another Bootstrap joint. (contributed by [mrtazz](https://twitter.com/#!/mrtazz)).)
 * [Riak Pipe README](https://github.com/basho/riak_pipe/blob/develop/README.org) - The simplicity of READMEs means that you can't obscure shitty content with flashy design. This one is written by my Basho colleague [Bryan Fink](https://twitter.com/#!/hobbyist) and should be committed to memory as an excellent example of how to write READMEs.
 * [Learn You Some Erlang](http://learnyousomeerlang.com/content) (contributed by [@lenary](https://twitter.com/lenary)) (It should also be noted that LYSE was inspired by Miran Lipovača's [Learn You A Haskell](http://learnyouahaskell.com/).)
 * [CoreOS](http://coreos.com/docs/) - Primary-colored goodness and a distributed system to boot (contributed by [@lucperkins](https://twitter.com/lucperkins))
@@ -25,39 +26,36 @@ This should be updated fairly regularly. As usual, **pull requests are encourage
 * [Ruby on Rails Guides](http://guides.rubyonrails.org/) - (contributed by [@seancribbs](https://twitter.com/#!/seancribbs))
 * [Pow Annotated Source](http://pow.cx/docs/) - Built with [docco.](http://jashkenas.github.com/docco/) (contributed by [@BonzoESC](https://twitter.com/BonzoESC))
 * [Stripe Documentation](https://stripe.com/docs) and [Full API Documentation](https://stripe.com/docs/api) - Multiple languages, example code, good detail on the API; especially love how the API docs show examples for curl and their supported client libraries. (contributed simultaneously by [@tnm](https://twitter.com/#!/tnm) and [@technoweenie](https://twitter.com/#!/technoweenie))
-* [Librato Developer Docs](http://dev.librato.com/) - Librato's RESTful API documentation. (contributed by [@josephruscio](https://twitter.com/josephruscio))
+* [Librato Developer Docs](https://www.librato.com/docs/api/) - Librato's RESTful API documentation. (contributed by [@josephruscio](https://twitter.com/josephruscio))
 * [CoffeeScript](http://coffeescript.org/) - (contributed by [@joedevivo](https://twitter.com/#!/joedevivo))
-* [Why's (Poignant) Guide to Ruby](http://mislav.uniqpath.com/poignant-guide/) - (contributed by [@joedevivo](https://twitter.com/#!/joedevivo))
+* [Why's (Poignant) Guide to Ruby](http://poignant.guide/) - (contributed by [@joedevivo](https://twitter.com/#!/joedevivo))
 * [Twitter Bootstrap](http://getbootstrap.com/) - Documented the project using the project. (contributed by [@kylewest](https://twitter.com/kylewest))
 * [hogan.js](http://twitter.github.com/hogan.js/) - Simple and Beautiful. (contributed by [@kylewest](https://twitter.com/kylewest))
 * [Scala Documentation](http://docs.scala-lang.org/) - Beautifully-styled Scala documentation site. (Contributed by [David M. Lee](https://github.com/leedm777))
 * [Linode Guides and Tutorials](https://www.linode.com/docs/) (contributed by [@davidmatas](https://twitter.com/#!/davidmatas))
-* [Brighter Planet API](http://impact.brighterplanet.com/documentation) - Along with [live examples](http://impact.brighterplanet.com/models/automobile), [methodology statements for calculations](http://impact.brighterplanet.com/automobiles?make=saab&model=900s&year=1990), and [calculation methodology source narratives](http://brighterplanet.github.com/automobile/impact_model.html) (contributed by [Derek Kastner](https://github.com/dkastner))
+* [Brighter Planet API](http://impact.brighterplanet.com/documentation) (contributed by [Derek Kastner](https://github.com/dkastner))
 * [Symfony2 Docs](http://symfony.com/doc/current/) (contributed by [Rodney Keeling](https://github.com/rodneykeeling))
-* [Pyramid Documentation](http://docs.pylonsproject.org/en/latest/docs/pyramid.html) (contributed by [csenger](https://github.com/csenger))
 * [Number Laundry API](http://numberlaundry.whatcheer.com/) - Fun design, simple examples. (contributed by [@jmhobbs](https://twitter.com/jmhobbs))
 * [Underscore.js](http://underscorejs.org) - Simple, clean, single page. (contributed by [@twe4ked](http://twitter.com/twe4ked))
 * [Qt](http://doc.qt.io/) - Very comprehensive documentation with tutorials and guides and great examples. (contributed by [@nikhilcutshort](https://twitter.com/nikhilcutshort))
 * [CasperJS](http://casperjs.org) - CasperJS is a navigation scripting & testing utility for PhantomJS, written in Javascript. (contributed by [@n1k0](https://twitter.com/n1k0))
 * [rubyamqp.info](http://rubyamqp.info) - A number of in-depth guides that cover Ruby `amqp` gem but also try to explain AMQP 0.9.1 features, why they exist, and how they are supposed to be used. (contributed by [Michael Klishin](https://twitter.com/#!/michaelklishin/))
 * [Savon.rb](http://savonrb.com/) - (contributed by [Mathias Meyer](https://twitter.com/#!/roidrage))
-* [Mozilla Developer Networks](https://developer.mozilla.org/en-US/) (contributed by [Rajeev N B @rBharshetty](https://twitter.com/#!/rBharshetty))
 * [Android Developer Documentation](http://developer.android.com/guide/index.html) (contributed by [Rajeev N B @rBharshetty](https://twitter.com/#!/rBharshetty))
 * [ØMQ - The Guide](http://zguide.zeromq.org/page:all) - Exciting documentation for an exciting lib. Concise working code examples available in multiple languages. Concepts are explained clearly. (contributed by [kindkid](https://github.com/kindkid))
 * [Postmark Developer Docs](http://developer.postmarkapp.com/) - Simple, easy to navigate, informative.
-* [Twitter Developers Docs](https://dev.twitter.com/overview/documentation) - In-depth and very well organized. (contributed by [@tsantero](https://twitter.com/#!/tsantero))
+* [Twitter Developers Docs](https://dev.twitter.com/docs) - In-depth and very well organized. (contributed by [@tsantero](https://twitter.com/#!/tsantero))
 * [GitHub Styleguide](https://github.com/styleguide) - Pragmatic styleguide with sections on Ruby, JavaScript and CSS. (https://twitter.com/github) (contributed by [@lenary](https://twitter.com/#!/lenary))
 * [Moment.js](http://momentjs.com/docs) - Thorough, well-designed, and excellent use of top-nav. (contributed by [@joshuapoehls](https://twitter.com/#!/joshuapoehls))
 * [Solarized](http://ethanschoonover.com/solarized) - Beautiful documentation about a color scheme, using the color scheme from [Ethan Schoonover](https://github.com/altercation). (contributed by [@seancribbs](http://twitter.com/seancribbs))
 * [Ember.js](http://guides.emberjs.com/) - The overall navigation could be done a bit better but the presentation and readability is quite nice. (contributed by [@cmeik](https://twitter.com/cmeik))
 * [Basho Docs](http://docs.basho.com/) - Well-designed, excellent use of versioning, integrated search, and much more.
 * [Go By Example](https://gobyexample.com/) - Clean, simple, and extensive. These docs that make you want to learn Go just because they make it so straightforward.
-* [99s Ranch User Guide](http://ninenines.eu/docs/en/ranch/HEAD/guide/introduction) - Pretty clear and thorough user guide. (contributed by [@lenary](https://twitter.com/#!/lenary))
 * [gevent API Docs](http://www.gevent.org/intro.html) - Clean, polished docs for gevent. (contributed by [rubik](https://github.com/rubik))
 * [CodernityDB](http://labs.codernity.com/codernitydb/index.html) - Clean, extensive, useful. I also love the fact that the day the software was released the documentation was this extensive.
 * [Riemann](http://riemann.io/) - Great design, easy to read, and very thorough with introductory and advanced topics.
 * [Pretty RFC](http://pretty-rfc.herokuapp.com/) - Reworked [IETF](http://www.ietf.org) documents for easier viewing.
-* [Vagrant](http://docs.vagrantup.com/) - Well organized, easy to read, attractive design. ([@clstokes](https://twitter.com/clstokes))
+* [Vagrant](https://www.vagrantup.com/docs/) - Well organized, easy to read, attractive design. ([@clstokes](https://twitter.com/clstokes))
 * [Wolfram Language](http://reference.wolfram.com/language/) - Nice top-level navigation in a grid layout. Topics grouped by color, each with a relevant graphic and on-click menu of sub-topics. (contributed by [troytop](http://github.com/troyhop))
 * [Lisp Flavored Erlang: Quick Start](http://lfe.gitbooks.io/quick-start/content/) - Attractive presentation, nice jumpstart for the language. (contributed by [@macintux](https://twitter.com/macintux))
 * [Thinking Forth](http://thinking-forth.sourceforge.net) - Forth is now largely eclipsed by Factor, but the book remains an inspiring look at the ideas behind this stack-based language. (contributed by [@macintux](https://twitter.com/macintux))
