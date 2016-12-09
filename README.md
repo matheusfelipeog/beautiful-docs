@@ -104,7 +104,6 @@ This should be updated fairly regularly. As usual, **pull requests are encourage
 * [phpDocumentor](http://www.phpdoc.org/) - phpDocumentor enables you to generate documentation from your PHP source code. (contributed by [shivamdixit](http://shivamdixit.com))
 * [Hologram](http://trulia.github.io/hologram/) - Hologram is a Ruby gem that parses comments in your CSS and helps you turn them into a beautiful style guide. (contributed by [@jchild3rs](http://github.com/jchild3rs))
 * [Middleman](https://middlemanapp.com/) - Static site generator using all the shortcuts and tools in modern web development. (contributed by [Sota Yamashtia](https://github.com/sotayamashita))
-* [Swig Documentation](http://paularmstrong.github.io/swig/docs/) - A Node.js and Browser-based JavaScript Template Engine. (contributed by [Wil Moore III](https://github.com/wilmoore))
 * [documentation.js](https://github.com/documentationjs/documentation) - Generates documentation from JavaScript source code. (contributed by [tmcw](https://github.com/tmcw))
 * [SassDoc](http://sassdoc.com/) - A Sass documentation generator that utilizes inline comments to make pretty and powerful docs. (contributed by [Hugo Giraudel](https://github.com/HugoGiraudel))
 * [Pickles](http://www.picklesdoc.com/#!index.md) - Pickles is an open source living documentation generator that works on feature files written in the Gherkin language.
