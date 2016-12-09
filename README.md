@@ -109,3 +109,4 @@ This should be updated fairly regularly. As usual, **pull requests are encourage
 * [SassDoc](http://sassdoc.com/) - A Sass documentation generator that utilizes inline comments to make pretty and powerful docs. (contributed by [Hugo Giraudel](https://github.com/HugoGiraudel))
 * [Pickles](http://www.picklesdoc.com/#!index.md) - Pickles is an open source living documentation generator that works on feature files written in the Gherkin language.
 * [ApiDoc](https://github.com/apidoc/apidoc) RESTful web API Documentation Generator that creates documentation from API descriptions in your source code. (contributed by [Trenton Broughton](https://github.com/trenton42))
+* [Documentation theme for Jekyll](http://idratherbewriting.com/documentation-theme-jekyll/) - Documentation theme built on Jekyll. Includes detailed notes on how to tackle nearly every technical documentation scenario, from single sourcing to conditional filtering, PDF output, relative links, and more.
