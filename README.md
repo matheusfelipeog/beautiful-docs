@@ -105,3 +105,4 @@ This should be updated fairly regularly. As usual, **pull requests are encourage
 * [Swig Documentation](http://paularmstrong.github.io/swig/docs/) - A Node.js and Browser-based JavaScript Template Engine. (contributed by [Wil Moore III](https://github.com/wilmoore))
 * [documentation.js](https://github.com/documentationjs/documentation) - Generates documentation from JavaScript source code. (contributed by [tmcw](https://github.com/tmcw))
 * [SassDoc](http://sassdoc.com/) - A Sass documentation generator that utilizes inline comments to make pretty and powerful docs. (contributed by [Hugo Giraudel](https://github.com/HugoGiraudel))
+* [Pickles](http://www.picklesdoc.com/#!index.md) - Pickles is an open source living documentation generator that works on feature files written in the Gherkin language.
