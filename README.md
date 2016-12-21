@@ -79,6 +79,7 @@ This should be updated fairly regularly. As usual, **pull requests are encourage
 * [TomDoc](http://tomdoc.org/) - A specification for Ruby library API docs by [@mojombo](https://twitter.com/mojombo) (contributed by [@lenary](https://twitter.com/#!/lenary))
 * [Write the Docs](http://conf.writethedocs.org) - A conference for authors of technical documentation. (contributed by [@macintux](https://twitter.com/macintux))
 * [Writing Great Documentation](http://jacobian.org/writing/great-documentation/) - Covers a variety of topics relating to writing good documentation such as content, style, formatting and so on. (contributed by [Paul A. Wilson](http://github.com/paulalexwilson)
+* [Shopify Documentation (Manual)](http://docs.shopify.com/manual) - Great design, easy to understand and extensive documentation. (contributed by [@alexhaniotis](https://twitter.com/alexhaniotis))
 
 ### Generating Docs
 
