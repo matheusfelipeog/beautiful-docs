@@ -6,13 +6,13 @@ I love documentation. If you work with/are writing code intended for usage and c
 
 With that in mind, here's a list of docs and other developer resources that myself and others find particularly useful, well-written, and otherwise "beautiful." May they serve to inspire you when writing and designing yours. Thanks to various contributors, we now also have sections dedicated to [Writing about Documentation](#writing-about-docs) and [Tools for Generating Docs](#generating-docs).
 
-This should be updated fairly regularly. As usual, **pull requests are encouraged**. 
+This should be updated fairly regularly. As usual, **pull requests are encouraged**.
 * If you're contributing a link, be sure to include a few words on why you're adding it and some sort of self-attribution so that people can know from whom it came.
-* All docs are listed in the order they were added. Keep this order when submitting your PR. 
+* All docs are listed in the order they were added. Keep this order when submitting your PR.
 
 [Mark](https://twitter.com/pharkmillups)
 
-### And Now For The Docs 
+### And Now For The Docs
 
 * [Redis Commands](http://redis.io/commands) - Most of the Redis docs are exceptional, but this section really epitomizes the combination of good design and usability. And all the individual command pages give you the ability to test things out without leaving the page. Pretty close to perfect.
 * [GitHub Developer Docs](http://developer.github.com/v3/) - I don't always get excited about accordion-based navigation, but when I do...
@@ -72,8 +72,10 @@ This should be updated fairly regularly. As usual, **pull requests are encourage
 * [Mailjet API guides](http://dev.mailjet.com/) - Great documentation with generated code samples using Slate from Tripit
 * [Atlassian GIT Tutorials](https://www.atlassian.com/git/) - Documentation and tutorials on Git. I like their layout. It is simple and foucssed on explaining the concepts with good diagrams, tutorials and glossary. (contributed by [@vaseehh](https://twitter.com/vaseehh))
 * [Digital Ocean API Docs](https://developers.digitalocean.com/documentation/v2/) - These docs are stellar. Examples are abundant and the organization makes each component of the API easy to reason about. (contributed by [@jasonaibrahim](https://github.com/jasonaibrahim))
+* [Nanobox Guides](https://guides.nanobox.io) - (contributed by [@sdomino](https://github.com/sdomino))
+* [Nanobox Docs](https://docs.nanobox.io) - (contributed by [@sdomino](https://github.com/sdomino))
 
-### Writing about Docs 
+### Writing about Docs
 
 * [Designing Great API Docs](http://blog.parse.com/learn/engineering/designing-great-api-docs/) - Blog post by [@jamesyu](https://twitter.com/jamesjyu) about what he/Parse finds essential in API Docs. (contributed by [@hobbyist](https://twitter.com/https://twitter.com/#!/hobbyist))
 * [TomDoc](http://tomdoc.org/) - A specification for Ruby library API docs by [@mojombo](https://twitter.com/mojombo) (contributed by [@lenary](https://twitter.com/#!/lenary))
