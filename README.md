@@ -72,6 +72,8 @@ This should be updated fairly regularly. As usual, **pull requests are encourage
 * [Mailjet API guides](http://dev.mailjet.com/) - Great documentation with generated code samples using Slate from Tripit
 * [Atlassian GIT Tutorials](https://www.atlassian.com/git/) - Documentation and tutorials on Git. I like their layout. It is simple and foucssed on explaining the concepts with good diagrams, tutorials and glossary. (contributed by [@vaseehh](https://twitter.com/vaseehh))
 * [Digital Ocean API Docs](https://developers.digitalocean.com/documentation/v2/) - These docs are stellar. Examples are abundant and the organization makes each component of the API easy to reason about. (contributed by [@jasonaibrahim](https://github.com/jasonaibrahim))
+* [Go Programming Language Docs](https://golang.org/doc/) - These docs are simple, well-organized, and effective. (contributed
+by [Ed Bacher](https://github.com/evbacher)).
 
 ### Writing about Docs 
 
@@ -111,3 +113,4 @@ This should be updated fairly regularly. As usual, **pull requests are encourage
 * [Asciidoctor](http://asciidoctor.org/) - Asciidoctor is a fast text processor and publishing toolchain for converting AsciiDoc content to HTML5, DocBook 5 (or 4.5) and other formats. (contributed by [ThomasG77](https://github.com/ThomasG77))
 * [Bookdown](https://bookdown.org/) - A open-source (GPL-3) R package to facilitate writing books and long-form articles/reports with R Markdown. Support for languages other than R, including C/C++, Python, and SQL, etc. (contributed by [ThomasG77](https://github.com/ThomasG77))
 * [Pandoc](http://pandoc.org/) If you need to convert files from one markup format into another, pandoc is your swiss-army knife. Can generate documentation from most common markup languages. (contributed by [ThomasG77](https://github.com/ThomasG77))
+* [gd2md-html](https://github.com/evbacher/gd2md-html/wiki) - gd2md-html is a free Google Docs add-on that converts a formatted Google Doc to a simple, readable Markdown or HTML text file. gd2md-html lets you use Google Docs' editing, formatting, and collaboration tools before you publish to a Markdown or HTML platform. (contributed by [Ed Bacher](https://github.com/evbacher) 
