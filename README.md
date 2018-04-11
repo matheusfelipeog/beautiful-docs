@@ -81,7 +81,7 @@ This should be updated fairly regularly. As usual, **pull requests are encourage
 * [Writing Great Documentation](http://jacobian.org/writing/great-documentation/) - Covers a variety of topics relating to writing good documentation such as content, style, formatting and so on. (contributed by [Paul A. Wilson](http://github.com/paulalexwilson)
 
 ### Generating Docs
-
+* [Doxygen](http://www.stack.nl/~dimitri/doxygen/) - Doxygen is the de facto standard tool for generating documentation from almost all popular programming languages.
 * [docco](http://jashkenas.github.io/docco/) - Pretty docs from source code comments with ports for many languages. (contributed by [@kylewest](https://twitter.com/kylewest))
 * [DocumentUp](http://documentup.com/jeromegn/documentup) - Instantly beautify your Github repositories' `README.md`. (contributed by [@kylewest](https://twitter.com/kylewest))
 * [Sphinx](http://sphinx-doc.org/) - Comprehensive documentation tool using restructuredText with beautiful HTML and PDF output. (contributed by [@nikhilcutshort](https://twitter.com/nikhilcutshort))
