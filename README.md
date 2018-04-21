@@ -72,6 +72,7 @@ This should be updated fairly regularly. As usual, **pull requests are encourage
 * [Mailjet API guides](http://dev.mailjet.com/) - Great documentation with generated code samples using Slate from Tripit
 * [Atlassian GIT Tutorials](https://www.atlassian.com/git/) - Documentation and tutorials on Git. I like their layout. It is simple and foucssed on explaining the concepts with good diagrams, tutorials and glossary. (contributed by [@vaseehh](https://twitter.com/vaseehh))
 * [Digital Ocean API Docs](https://developers.digitalocean.com/documentation/v2/) - These docs are stellar. Examples are abundant and the organization makes each component of the API easy to reason about. (contributed by [@jasonaibrahim](https://github.com/jasonaibrahim))
+* [Vue.js 2.x Docs](https://vuejs.org/v2/guide/) - Awesome guide on the Vue.js framework, one of the best docs of any javascript frameworks in my opinion. If you had read them you don't need other manuals on the net to start coding with Vue. (contributed by [@flppv](https://github.com/flppv))
 
 ### Writing about Docs 
 
