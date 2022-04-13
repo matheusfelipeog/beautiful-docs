@@ -1,5 +1,3 @@
-**DO YOU WANT TO BUILD AND WRITE GLORIOUS TECHNICAL DOCUMENTATION FULL TIME? EMAIL mark@helium.com. WE NEED YOU.**
-
 # Beautiful Docs
 
 I love documentation. If you work with/are writing code intended for usage and consumption by more than one person, you should love it, too. Documentation and other resources will make or break the success of your project. And the more open and collaborative you want development to be, the more crucial docs become.
