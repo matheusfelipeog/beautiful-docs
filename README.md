@@ -13,7 +13,7 @@ This should be updated fairly regularly. As usual, **pull requests are encourage
 ### And Now For The Docs 
 
 * [Redis Commands](https://redis.io/commands/) - Most of the Redis docs are exceptional, but this section really epitomizes the combination of good design and usability. And all the individual command pages give you the ability to test things out without leaving the page. Pretty close to perfect.
-* [GitHub Developer Docs](http://developer.github.com/v3/) - I don't always get excited about accordion-based navigation, but when I do...
+* [GitHub Developer Docs](https://docs.github.com/en) - I don't always get excited about accordion-based navigation, but when I do...
 * [Dropwizard](http://www.dropwizard.io/) - Beautiful and concise; another Bootstrap joint. (contributed by [mrtazz](https://twitter.com/#!/mrtazz)).)
 * [Riak Pipe README](https://github.com/basho/riak_pipe/blob/develop/README.org) - The simplicity of READMEs means that you can't obscure shitty content with flashy design. This one is written by my Basho colleague [Bryan Fink](https://twitter.com/#!/hobbyist) and should be committed to memory as an excellent example of how to write READMEs.
 * [Learn You Some Erlang](http://learnyousomeerlang.com/content) (contributed by [@lenary](https://twitter.com/lenary)) (It should also be noted that LYSE was inspired by Miran Lipovača's [Learn You A Haskell](http://learnyouahaskell.com/).)
