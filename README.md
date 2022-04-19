@@ -21,7 +21,6 @@ This should be updated fairly regularly. As usual, **pull requests are encourage
 * [Clojuredocs.org](https://clojuredocs.org) (contributed by [@mrb_bk](https://twitter.com/#!/mrb_bk))
 * [FreeBSD Handbook](https://docs.freebsd.org/en/books/handbook/) - Clean and direct documentation of an OS. (contributed by [@mrtazz](https://twitter.com/#!/mrtazz))
 * [Ruby on Rails Guides](https://guides.rubyonrails.org/) - (contributed by [@seancribbs](https://twitter.com/#!/seancribbs))
-* [Pow Annotated Source](http://pow.cx/docs/) - Built with [docco.](http://jashkenas.github.com/docco/) (contributed by [@BonzoESC](https://twitter.com/BonzoESC))
 * [Stripe Documentation](https://stripe.com/docs) and [Full API Documentation](https://stripe.com/docs/api) - Multiple languages, example code, good detail on the API; especially love how the API docs show examples for curl and their supported client libraries. (contributed simultaneously by [@tnm](https://twitter.com/#!/tnm) and [@technoweenie](https://twitter.com/#!/technoweenie))
 * [Librato Developer Docs](https://www.librato.com/docs/api/) - Librato's RESTful API documentation. (contributed by [@josephruscio](https://twitter.com/josephruscio))
 * [CoffeeScript](http://coffeescript.org/) - (contributed by [@joedevivo](https://twitter.com/#!/joedevivo))
