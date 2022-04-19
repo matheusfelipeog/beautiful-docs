@@ -18,7 +18,7 @@ This should be updated fairly regularly. As usual, **pull requests are encourage
 * [Riak Pipe README](https://github.com/basho/riak_pipe/blob/develop/README.md) - The simplicity of READMEs means that you can't obscure shitty content with flashy design. This one is written by my Basho colleague [Bryan Fink](https://twitter.com/#!/hobbyist) and should be committed to memory as an excellent example of how to write READMEs.
 * [Learn You Some Erlang](https://learnyousomeerlang.com/content) (contributed by [@lenary](https://twitter.com/lenary)) (It should also be noted that LYSE was inspired by Miran Lipovača's [Learn You A Haskell](http://learnyouahaskell.com/).)
 * [Django Documentation](https://docs.djangoproject.com/en/) - (contributed by [@bretthoerner](https://twitter.com/bretthoerner))
-* [Clojuredocs.org](http://clojuredocs.org) (contributed by [@mrb_bk](https://twitter.com/#!/mrb_bk))
+* [Clojuredocs.org](https://clojuredocs.org) (contributed by [@mrb_bk](https://twitter.com/#!/mrb_bk))
 * [FreeBSD Handbook](http://www.freebsd.org/handbook/) - Clean and direct documentation of an OS. (contributed by [@mrtazz](https://twitter.com/#!/mrtazz))
 * [Ruby on Rails Guides](http://guides.rubyonrails.org/) - (contributed by [@seancribbs](https://twitter.com/#!/seancribbs))
 * [Pow Annotated Source](http://pow.cx/docs/) - Built with [docco.](http://jashkenas.github.com/docco/) (contributed by [@BonzoESC](https://twitter.com/BonzoESC))
