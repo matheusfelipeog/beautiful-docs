@@ -24,7 +24,7 @@ This should be updated fairly regularly. As usual, **pull requests are encourage
 * [Stripe Documentation](https://stripe.com/docs) and [Full API Documentation](https://stripe.com/docs/api) - Multiple languages, example code, good detail on the API; especially love how the API docs show examples for curl and their supported client libraries. (contributed simultaneously by [@tnm](https://twitter.com/#!/tnm) and [@technoweenie](https://twitter.com/#!/technoweenie))
 * [Librato Developer Docs](https://www.librato.com/docs/api/) - Librato's RESTful API documentation. (contributed by [@josephruscio](https://twitter.com/josephruscio))
 * [CoffeeScript](https://coffeescript.org/) - (contributed by [@joedevivo](https://twitter.com/#!/joedevivo))
-* [Why's (Poignant) Guide to Ruby](http://poignant.guide/) - (contributed by [@joedevivo](https://twitter.com/#!/joedevivo))
+* [Why's (Poignant) Guide to Ruby](https://poignant.guide/) - (contributed by [@joedevivo](https://twitter.com/#!/joedevivo))
 * [Twitter Bootstrap](http://getbootstrap.com/) - Documented the project using the project. (contributed by [@kylewest](https://twitter.com/kylewest))
 * [hogan.js](http://twitter.github.com/hogan.js/) - Simple and Beautiful. (contributed by [@kylewest](https://twitter.com/kylewest))
 * [Scala Documentation](http://docs.scala-lang.org/) - Beautifully-styled Scala documentation site. (Contributed by [David M. Lee](https://github.com/leedm777))
