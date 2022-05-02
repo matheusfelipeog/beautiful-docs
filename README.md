@@ -32,7 +32,6 @@ This should be updated fairly regularly. As usual, **pull requests are encourage
 * [Symfony Docs](https://symfony.com/doc/current/) (contributed by [Rodney Keeling](https://github.com/rodneykeeling))
 * [Underscore.js](https://underscorejs.org/) - Simple, clean, single page. (contributed by [@twe4ked](http://twitter.com/twe4ked))
 * [Qt](https://doc.qt.io/) - Very comprehensive documentation with tutorials and guides and great examples. (contributed by [@nikhilcutshort](https://twitter.com/nikhilcutshort))
-* [CasperJS](http://casperjs.org) - CasperJS is a navigation scripting & testing utility for PhantomJS, written in Javascript. (contributed by [@n1k0](https://twitter.com/n1k0))
 * [rubyamqp.info](http://rubyamqp.info) - A number of in-depth guides that cover Ruby `amqp` gem but also try to explain AMQP 0.9.1 features, why they exist, and how they are supposed to be used. (contributed by [Michael Klishin](https://twitter.com/#!/michaelklishin/))
 * [Savon.rb](http://savonrb.com/) - (contributed by [Mathias Meyer](https://twitter.com/#!/roidrage))
 * [Android Developer Documentation](http://developer.android.com/guide/index.html) (contributed by [Rajeev N B @rBharshetty](https://twitter.com/#!/rBharshetty))
