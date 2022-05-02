@@ -30,7 +30,7 @@ This should be updated fairly regularly. As usual, **pull requests are encourage
 * [Scala Documentation](https://docs.scala-lang.org/) - Beautifully-styled Scala documentation site. (Contributed by [David M. Lee](https://github.com/leedm777))
 * [Linode Guides and Tutorials](https://www.linode.com/docs/) (contributed by [@davidmatas](https://twitter.com/#!/davidmatas))
 * [Symfony Docs](https://symfony.com/doc/current/) (contributed by [Rodney Keeling](https://github.com/rodneykeeling))
-* [Underscore.js](http://underscorejs.org) - Simple, clean, single page. (contributed by [@twe4ked](http://twitter.com/twe4ked))
+* [Underscore.js](https://underscorejs.org/) - Simple, clean, single page. (contributed by [@twe4ked](http://twitter.com/twe4ked))
 * [Qt](http://doc.qt.io/) - Very comprehensive documentation with tutorials and guides and great examples. (contributed by [@nikhilcutshort](https://twitter.com/nikhilcutshort))
 * [CasperJS](http://casperjs.org) - CasperJS is a navigation scripting & testing utility for PhantomJS, written in Javascript. (contributed by [@n1k0](https://twitter.com/n1k0))
 * [rubyamqp.info](http://rubyamqp.info) - A number of in-depth guides that cover Ruby `amqp` gem but also try to explain AMQP 0.9.1 features, why they exist, and how they are supposed to be used. (contributed by [Michael Klishin](https://twitter.com/#!/michaelklishin/))
