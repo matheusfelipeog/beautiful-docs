@@ -38,7 +38,7 @@ This should be updated fairly regularly. As usual, **pull requests are encourage
 * [Twitter Developers Docs](https://developer.twitter.com/en/docs) - In-depth and very well organized. (contributed by [@tsantero](https://twitter.com/#!/tsantero))
 * [GitHub Styleguide](https://styleguide.github.com/) - Pragmatic styleguide with sections on Ruby, JavaScript and CSS. (contributed by [@lenary](https://twitter.com/#!/lenary))
 * [Moment.js](https://momentjs.com/docs/) - Thorough, well-designed, and excellent use of top-nav. (contributed by [@joshuapoehls](https://twitter.com/#!/joshuapoehls))
-* [Solarized](http://ethanschoonover.com/solarized) - Beautiful documentation about a color scheme, using the color scheme from [Ethan Schoonover](https://github.com/altercation). (contributed by [@seancribbs](http://twitter.com/seancribbs))
+* [Solarized](https://ethanschoonover.com/solarized/) - Beautiful documentation about a color scheme, using the color scheme from [Ethan Schoonover](https://github.com/altercation). (contributed by [@seancribbs](http://twitter.com/seancribbs))
 * [Ember.js](http://guides.emberjs.com/) - The overall navigation could be done a bit better but the presentation and readability is quite nice. (contributed by [@cmeik](https://twitter.com/cmeik))
 * [Basho Docs](http://docs.basho.com/) - Well-designed, excellent use of versioning, integrated search, and much more.
 * [Go By Example](https://gobyexample.com/) - Clean, simple, and extensive. These docs that make you want to learn Go just because they make it so straightforward.
