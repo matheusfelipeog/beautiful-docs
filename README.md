@@ -27,7 +27,7 @@ This should be updated fairly regularly. As usual, **pull requests are encourage
 * [Why's (Poignant) Guide to Ruby](https://poignant.guide/) - (contributed by [@joedevivo](https://twitter.com/#!/joedevivo))
 * [Twitter Bootstrap](https://getbootstrap.com/) - Documented the project using the project. (contributed by [@kylewest](https://twitter.com/kylewest))
 * [hogan.js](https://twitter.github.io/hogan.js/) - Simple and Beautiful. (contributed by [@kylewest](https://twitter.com/kylewest))
-* [Scala Documentation](http://docs.scala-lang.org/) - Beautifully-styled Scala documentation site. (Contributed by [David M. Lee](https://github.com/leedm777))
+* [Scala Documentation](https://docs.scala-lang.org/) - Beautifully-styled Scala documentation site. (Contributed by [David M. Lee](https://github.com/leedm777))
 * [Linode Guides and Tutorials](https://www.linode.com/docs/) (contributed by [@davidmatas](https://twitter.com/#!/davidmatas))
 * [Brighter Planet API](http://impact.brighterplanet.com/documentation) (contributed by [Derek Kastner](https://github.com/dkastner))
 * [Symfony2 Docs](http://symfony.com/doc/current/) (contributed by [Rodney Keeling](https://github.com/rodneykeeling))
