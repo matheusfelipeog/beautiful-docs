@@ -29,7 +29,6 @@ This should be updated fairly regularly. As usual, **pull requests are encourage
 * [hogan.js](https://twitter.github.io/hogan.js/) - Simple and Beautiful. (contributed by [@kylewest](https://twitter.com/kylewest))
 * [Scala Documentation](https://docs.scala-lang.org/) - Beautifully-styled Scala documentation site. (Contributed by [David M. Lee](https://github.com/leedm777))
 * [Linode Guides and Tutorials](https://www.linode.com/docs/) (contributed by [@davidmatas](https://twitter.com/#!/davidmatas))
-* [Brighter Planet API](http://impact.brighterplanet.com/documentation) (contributed by [Derek Kastner](https://github.com/dkastner))
 * [Symfony2 Docs](http://symfony.com/doc/current/) (contributed by [Rodney Keeling](https://github.com/rodneykeeling))
 * [Number Laundry API](http://numberlaundry.whatcheer.com/) - Fun design, simple examples. (contributed by [@jmhobbs](https://twitter.com/jmhobbs))
 * [Underscore.js](http://underscorejs.org) - Simple, clean, single page. (contributed by [@twe4ked](http://twitter.com/twe4ked))
