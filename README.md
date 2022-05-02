@@ -35,7 +35,7 @@ This should be updated fairly regularly. As usual, **pull requests are encourage
 * [Savon.rb](https://www.savonrb.com/) - (contributed by [Mathias Meyer](https://twitter.com/#!/roidrage))
 * [Android Developer Documentation](https://developer.android.com/guide) (contributed by [Rajeev N B @rBharshetty](https://twitter.com/#!/rBharshetty))
 * [Postmark Developer Docs](https://postmarkapp.com/developer) - Simple, easy to navigate, informative.
-* [Twitter Developers Docs](https://dev.twitter.com/docs) - In-depth and very well organized. (contributed by [@tsantero](https://twitter.com/#!/tsantero))
+* [Twitter Developers Docs](https://developer.twitter.com/en/docs) - In-depth and very well organized. (contributed by [@tsantero](https://twitter.com/#!/tsantero))
 * [GitHub Styleguide](https://styleguide.github.com/) - Pragmatic styleguide with sections on Ruby, JavaScript and CSS. (contributed by [@lenary](https://twitter.com/#!/lenary))
 * [Moment.js](http://momentjs.com/docs) - Thorough, well-designed, and excellent use of top-nav. (contributed by [@joshuapoehls](https://twitter.com/#!/joshuapoehls))
 * [Solarized](http://ethanschoonover.com/solarized) - Beautiful documentation about a color scheme, using the color scheme from [Ethan Schoonover](https://github.com/altercation). (contributed by [@seancribbs](http://twitter.com/seancribbs))
