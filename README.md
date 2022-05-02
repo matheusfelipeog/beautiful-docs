@@ -43,7 +43,6 @@ This should be updated fairly regularly. As usual, **pull requests are encourage
 * [Riak Docs](https://docs.riak.com/) - Well-designed, excellent use of versioning, integrated search, and much more.
 * [Go By Example](https://gobyexample.com/) - Clean, simple, and extensive. These docs that make you want to learn Go just because they make it so straightforward.
 * [gevent API Docs](https://www.gevent.org/intro.html) - Clean, polished docs for gevent. (contributed by [rubik](https://github.com/rubik))
-* [CodernityDB](http://labs.codernity.com/codernitydb/index.html) - Clean, extensive, useful. I also love the fact that the day the software was released the documentation was this extensive.
 * [Riemann](http://riemann.io/) - Great design, easy to read, and very thorough with introductory and advanced topics.
 * [Pretty RFC](http://pretty-rfc.herokuapp.com/) - Reworked [IETF](http://www.ietf.org) documents for easier viewing.
 * [Vagrant](https://www.vagrantup.com/docs/) - Well organized, easy to read, attractive design. ([@clstokes](https://twitter.com/clstokes))
