@@ -63,9 +63,9 @@ This should be updated fairly regularly. As usual, **pull requests are encourage
 * [Atlassian GIT Tutorials](https://www.atlassian.com/git/) - Documentation and tutorials on Git. I like their layout. It is simple and focused on explaining the concepts with good diagrams, tutorials and glossary. (contributed by [@vaseehh](https://twitter.com/vaseehh))
 * [Digital Ocean API Docs](https://docs.digitalocean.com/reference/api/) - These docs are stellar. Examples are abundant and the organization makes each component of the API easy to reason about. (contributed by [@jasonaibrahim](https://github.com/jasonaibrahim))
 
-### Writing about Docs 
+### Writing about Docs
 
-* [Designing Great API Docs](http://blog.parse.com/learn/engineering/designing-great-api-docs/) - Blog post by [@jamesyu](https://twitter.com/jamesjyu) about what he/Parse finds essential in API Docs. (contributed by [@hobbyist](https://twitter.com/https://twitter.com/#!/hobbyist))
+* [Designing Great API Docs](https://www.pixelstech.net/article/1331352900-Designing-Great-API-Docs) - Blog post by [@jamesyu](https://twitter.com/jamesjyu) about what he/Parse finds essential in API Docs. (contributed by [@hobbyist](https://twitter.com/https://twitter.com/#!/hobbyist))
 * [TomDoc](http://tomdoc.org/) - A specification for Ruby library API docs by [@mojombo](https://twitter.com/mojombo) (contributed by [@lenary](https://twitter.com/#!/lenary))
 * [Write the Docs](http://conf.writethedocs.org) - A conference for authors of technical documentation. (contributed by [@macintux](https://twitter.com/macintux))
 * [Writing Great Documentation](http://jacobian.org/writing/great-documentation/) - Covers a variety of topics relating to writing good documentation such as content, style, formatting and so on. (contributed by [Paul A. Wilson](http://github.com/paulalexwilson))
