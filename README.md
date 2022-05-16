@@ -68,7 +68,7 @@ This should be updated fairly regularly. As usual, **pull requests are encourage
 * [Designing Great API Docs](https://www.pixelstech.net/article/1331352900-Designing-Great-API-Docs) - Blog post by [@jamesyu](https://twitter.com/jamesjyu) about what he/Parse finds essential in API Docs. (contributed by [@hobbyist](https://twitter.com/https://twitter.com/#!/hobbyist))
 * [TomDoc](http://tomdoc.org/) - A specification for Ruby library API docs by [@mojombo](https://twitter.com/mojombo) (contributed by [@lenary](https://twitter.com/#!/lenary))
 * [Write the Docs](https://www.writethedocs.org/) - A conference for authors of technical documentation. (contributed by [@macintux](https://twitter.com/macintux))
-* [Writing Great Documentation](http://jacobian.org/writing/great-documentation/) - Covers a variety of topics relating to writing good documentation such as content, style, formatting and so on. (contributed by [Paul A. Wilson](http://github.com/paulalexwilson))
+* [Writing Great Documentation](https://jacobian.org/series/great-documentation/) - Covers a variety of topics relating to writing good documentation such as content, style, formatting and so on. (contributed by [Paul A. Wilson](http://github.com/paulalexwilson))
 
 ### Generating Docs
 
