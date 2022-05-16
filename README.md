@@ -61,7 +61,7 @@ This should be updated fairly regularly. As usual, **pull requests are encourage
 * [Grav Documentation](https://learn.getgrav.org/) - Documentation for Grav, a modern open source flat-file CMS. Tightly integrated with GitHub in markdown format, with quick search and highlight. (contributed by [@rhuk](https://twitter.com/rhuk))
 * [Mailjet API guides](https://dev.mailjet.com/) - Great documentation with generated code samples using Slate from Tripit
 * [Atlassian GIT Tutorials](https://www.atlassian.com/git/) - Documentation and tutorials on Git. I like their layout. It is simple and focused on explaining the concepts with good diagrams, tutorials and glossary. (contributed by [@vaseehh](https://twitter.com/vaseehh))
-* [Digital Ocean API Docs](https://developers.digitalocean.com/documentation/v2/) - These docs are stellar. Examples are abundant and the organization makes each component of the API easy to reason about. (contributed by [@jasonaibrahim](https://github.com/jasonaibrahim))
+* [Digital Ocean API Docs](https://docs.digitalocean.com/reference/api/) - These docs are stellar. Examples are abundant and the organization makes each component of the API easy to reason about. (contributed by [@jasonaibrahim](https://github.com/jasonaibrahim))
 
 ### Writing about Docs 
 
