@@ -49,7 +49,7 @@ This should be updated fairly regularly. As usual, **pull requests are encourage
 * [Wolfram Language](https://reference.wolfram.com/language/) - Nice top-level navigation in a grid layout. Topics grouped by color, each with a relevant graphic and on-click menu of sub-topics. (contributed by [troytop](http://github.com/troyhop))
 * [Lisp Flavored Erlang: Quick Start](https://lfe.gitbooks.io/quick-start/content/) - Attractive presentation, nice jumpstart for the language. (contributed by [@macintux](https://twitter.com/macintux))
 * [Thinking Forth](http://thinking-forth.sourceforge.net) - Forth is now largely eclipsed by Factor, but the book remains an inspiring look at the ideas behind this stack-based language. (contributed by [@macintux](https://twitter.com/macintux))
-* [Packer Documentation](http://www.packer.io/docs) - These are just lovely.
+* [Packer Documentation](https://www.packer.io/docs) - These are just lovely.
 * [Abjad: Modeling Music in Python](http://abjad.mbrsi.org/) - Clean styling, and impressive integration of figures and diagrams. (contributed by [@adorsk](https://github.com/adorsk))
 * [SqlAlchemy](http://docs.sqlalchemy.org/) - One of the most comprehensive pieces of documentation I've ever seen, with excellent linking and layout. (contributed by [@adorsk](https://github.com/adorsk))
 * [Sonata Project](http://sonata-project.org/bundles/) - All the Sonata Project bundles for Symfony2 on a single page. These have a nice, clear layout. (contributed by [@NoScopie](https://github.com/NoScopie))
