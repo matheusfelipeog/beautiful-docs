@@ -78,7 +78,7 @@ This should be updated fairly regularly. As usual, **pull requests are encourage
 * [Read the Docs](https://readthedocs.org/) - Hosted docs using Sphinx or MkDocs, supports translations and finding docs for specific software versions. Used by the Django Docs. (contributed by [Stephen Paulger](https://github.com/stephenpaulger))
 * [ApiGen](https://www.apigen.org/ApiGen/) - Creates clean API documentation from PHP source code (contributed by [bryceadams](http://bryce.se/))
 * [docgenerator](https://github.com/Ralt/docgenerator/blob/master/README.md) - Organize your documentation in Markdown files. (contributed by [Florian Margaine](http://margaine.com))
-* [dexy](http://www.dexy.it/) - Extensible documentation/report generator supporting multiple programming languages and serveral input and output formats. (contributed by [troytop](http://github.com/troytop))
+* [dexy](https://www.dexy.it) - Extensible documentation/report generator supporting multiple programming languages and serveral input and output formats. (contributed by [troytop](http://github.com/troytop))
 * [Slate](https://github.com/tripit/slate) - Static API documentation creation tool from the team at Tripit.
 * [MireDot](http://www.miredot.com) - REST API documentation generator for Java. Plugs into your build process and generates a searchable html page. (contributed by [bertvh](https://github.com/bertvh))
 * [codo](https://github.com/coffeedoc/codo) - CoffeeScript API documentation generator, similar to YARD. (contributed by [Logan Koester](http://github.com/logankoester))
