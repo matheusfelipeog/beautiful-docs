@@ -87,7 +87,7 @@ This should be updated fairly regularly. As usual, **pull requests are encourage
 * [Daux](https://daux.io/) - A documentation generator that uses a simple folder structure and Markdown files to create custom documentation on the fly. It helps you create great looking documentation in a developer friendly way. (contributed by [veshinak](https://github.com/veshinak))
 * [comment.js](https://github.com/dciccale/comment.js) - Simple API documentation generator. (contributed by [@dciccale](https://github.com/diccale))
 * [phpDocumentor](https://www.phpdoc.org/) - phpDocumentor enables you to generate documentation from your PHP source code. (contributed by [shivamdixit](http://shivamdixit.com))
-* [Hologram](http://trulia.github.io/hologram/) - Hologram is a Ruby gem that parses comments in your CSS and helps you turn them into a beautiful style guide. (contributed by [@jchild3rs](http://github.com/jchild3rs))
+* [Hologram](https://trulia.github.io/hologram/) - Hologram is a Ruby gem that parses comments in your CSS and helps you turn them into a beautiful style guide. (contributed by [@jchild3rs](http://github.com/jchild3rs))
 * [Middleman](https://middlemanapp.com/) - Static site generator using all the shortcuts and tools in modern web development. (contributed by [Sota Yamashtia](https://github.com/sotayamashita))
 * [documentation.js](https://github.com/documentationjs/documentation) - Generates documentation from JavaScript source code. (contributed by [tmcw](https://github.com/tmcw))
 * [SassDoc](http://sassdoc.com/) - A Sass documentation generator that utilizes inline comments to make pretty and powerful docs. (contributed by [Hugo Giraudel](https://github.com/HugoGiraudel))
