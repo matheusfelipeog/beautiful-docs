@@ -63,6 +63,7 @@ This should be updated fairly regularly. As usual, **pull requests are encourage
 * [Atlassian GIT Tutorials](https://www.atlassian.com/git/) - Documentation and tutorials on Git. I like their layout. It is simple and focused on explaining the concepts with good diagrams, tutorials and glossary. (contributed by [@vaseehh](https://twitter.com/vaseehh))
 * [Digital Ocean API Docs](https://docs.digitalocean.com/reference/api/) - These docs are stellar. Examples are abundant and the organization makes each component of the API easy to reason about. (contributed by [@jasonaibrahim](https://github.com/jasonaibrahim))
 * [The LTTng Documentation](https://lttng.org/docs) - The whole documentation of the open source LTTng project on a single page (one page per project release). Features are: sparse style with pleasant colors, good information structure, auto-scrolling navigation, mobile-friendly, dedicated example boxes, glossary, tight integration with the [online man pages](https://lttng.org/man/) of the same version which are rendered with the same style. [Source](https://github.com/lttng/lttng-docs) is written in AsciiDoc (project's man pages too), with custom inline macros for specific features. (contributed by [@eepp](https://eepp.ca/))
+* [DocRaptor](https://docraptor.com/documentation) Covers HTML-to-PDF API language wrappers, styling instructions and core API docs.
 
 ### Writing about Docs
 
