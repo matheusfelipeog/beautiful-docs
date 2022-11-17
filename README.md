@@ -109,3 +109,4 @@ This should be updated fairly regularly. As usual, **pull requests are encourage
 * [Documize](https://github.com/documize/community) - One place to author, approve, publish documentation (contributed by [HarveyKandola](https://github.com/HarveyKandola))
 * [ESDoc](https://esdoc.org/) - Documentation generator for JavaScript. Similar to JSDoc, but provides more useful features and stylish look and feel. (contributed by [@bandantonio](https://github.com/bandantonio))
 * [Doxygen](https://www.doxygen.nl/) - Doxygen is the de facto standard tool for generating documentation from almost all popular programming languages. (contributed by [@nocomplexity](https://github.com/nocomplexity))
+* [Ignite](https://github.com/intuit/Ignite) - Markdown documentation tool built around react components as first class plugins. Docs generateed using [bulma](https://bulma.io/). (contributed by [ThomasG77](https://github.com/ThomasG77))
