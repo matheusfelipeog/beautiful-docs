@@ -65,6 +65,7 @@ This should be updated fairly regularly. As usual, **pull requests are encourage
 * [The LTTng Documentation](https://lttng.org/docs) - The whole documentation of the open source LTTng project on a single page (one page per project release). Features are: sparse style with pleasant colors, good information structure, auto-scrolling navigation, mobile-friendly, dedicated example boxes, glossary, tight integration with the [online man pages](https://lttng.org/man/) of the same version which are rendered with the same style. [Source](https://github.com/lttng/lttng-docs) is written in AsciiDoc (project's man pages too), with custom inline macros for specific features. (contributed by [@eepp](https://eepp.ca/))
 * [DocRaptor](https://docraptor.com/documentation) Covers HTML-to-PDF API language wrappers, styling instructions and core API docs.
 * [Go Programming Language Docs](https://go.dev/doc/) - These docs are simple, well-organized, and effective. (contributed by [Ed Bacher](https://github.com/evbacher))
+* [Sequelize](https://sequelize.org/) - Simple, clear and well-structured docs with a complete Class Reference and listing of all public methods. (contributed by [@bandantonio](https://github.com/bandantonio))
 
 ### Writing about Docs
 
@@ -105,3 +106,4 @@ This should be updated fairly regularly. As usual, **pull requests are encourage
 * [LaTex](https://www.latex-project.org/) Latex is typesetting system that has been around for over 30 yrs and still very popular mostly in academia settings. Its strongest strength is in its capacity and flexibility in creating beautiful mathematical formulas. (contributed by [Tao Li](https://github.com/taolicd))
 * [gd2md-html](https://github.com/evbacher/gd2md-html/wiki) - gd2md-html is a free Google Docs add-on that converts a formatted Google Doc to a simple, readable Markdown or HTML text file. gd2md-html lets you use Google Docs' editing, formatting, and collaboration tools before you publish to a Markdown or HTML platform. (contributed by [Ed Bacher](https://github.com/evbacher))
 * [Documize](https://github.com/documize/community) - One place to author, approve, publish documentation (contributed by [HarveyKandola](https://github.com/HarveyKandola))
+* [ESDoc](https://esdoc.org/) - Documentation generator for JavaScript. Similar to JSDoc, but provides more useful features and stylish look and feel. (contributed by [@bandantonio](https://github.com/bandantonio))
