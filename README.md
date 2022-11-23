@@ -67,6 +67,7 @@ This should be updated fairly regularly. As usual, **pull requests are encourage
 * [Go Programming Language Docs](https://go.dev/doc/) - These docs are simple, well-organized, and effective. (contributed by [Ed Bacher](https://github.com/evbacher))
 * [Sequelize](https://sequelize.org/) - Simple, clear and well-structured docs with a complete Class Reference and listing of all public methods. (contributed by [@bandantonio](https://github.com/bandantonio))
 * [Vue.js Docs](https://vuejs.org/) - The Progressive JavaScript Framework: An approachable, performant and versatile framework for building web user interfaces. (contributed by [@jinjiang](https://github.com/jinjiang))
+* [Posit Documentation](https://docs.posit.co/) - Clean, simple, and easy on the eyes. (contributed by [@foxnic](https://github.com/foxnic))
 
 ### Writing about Docs
 
