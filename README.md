@@ -69,6 +69,7 @@ This should be updated fairly regularly. As usual, **pull requests are encourage
 * [Vue.js Docs](https://vuejs.org/) - The Progressive JavaScript Framework: An approachable, performant and versatile framework for building web user interfaces. (contributed by [@jinjiang](https://github.com/jinjiang))
 * [Posit Documentation](https://docs.posit.co/) - Clean, simple, and easy on the eyes. (contributed by [@foxnic](https://github.com/foxnic))
 * [FastAPI](https://fastapi.tiangolo.com) - Python framework for building APIs with beautiful and complete documentation. (contributed by [@jrwaine](https://github.com/jrwaine))
+* [Circles, Sines and Signals](https://jackschaedler.github.io/circles-sines-signals/) - A Compact Primer on Digital Signal Processing. (contributed by [@PharkMillups](https://github.com/PharkMillups))
 
 ### Writing about Docs
 
