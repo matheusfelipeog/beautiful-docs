@@ -83,6 +83,7 @@ This should be updated fairly regularly. As usual, **pull requests are encourage
 
 ### Generating Docs
 
+* [Mintlify](https://mintlify.com/) - Hosted docs using Markdown and MDX (contributed by [arnehuang](https://github.com/arnehuang)))
 * [docco](https://ashkenas.com/docco/) - Pretty docs from source code comments with ports for many languages. (contributed by [@kylewest](https://twitter.com/kylewest))
 * [Sphinx](https://www.sphinx-doc.org/) - Comprehensive documentation tool using restructuredText with beautiful HTML and PDF output. (contributed by [@nikhilcutshort](https://twitter.com/nikhilcutshort))
 * [MkDocs](https://www.mkdocs.org/) - Documentation with Markdown, written in Python. (contributed by [ericbn](https://github.com/ericbn))
