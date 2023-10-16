@@ -119,3 +119,4 @@ This should be updated fairly regularly. As usual, **pull requests are encourage
 * [Scramble](https://scramble.dedoc.co/) - Scramble generates API documentation for Laravel project. Without requiring you to manually write PHPDoc annotations. (contributed by [danie1net0](https://github.com/danie1net0))
 * [VuePress](https://vuepress.vuejs.org) - Vue-powered static site generator, simplicity first and performant. (contributed by [matheusfelipeog](https://github.com/matheusfelipeog))
 * [VitePress](https://vitepress.dev/) - VitePress is a Static Site Generator designed for building fast, simple, powerful and content-centric websites. (contributed by [matheusfelipeog](https://github.com/matheusfelipeog))
+* [Mintlify](https://mintlify.com/) - Hosted docs using Markdown and MDX (contributed by [arnehuang](https://github.com/arnehuang))
