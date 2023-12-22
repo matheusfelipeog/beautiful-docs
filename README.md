@@ -79,7 +79,7 @@ This should be updated fairly regularly. As usual, **pull requests are encourage
 * [Writing Great Documentation](https://jacobian.org/series/great-documentation/) - Covers a variety of topics relating to writing good documentation such as content, style, formatting and so on. (contributed by [Paul A. Wilson](http://github.com/paulalexwilson))
 * [Google Developer Documentation Style Guide](https://developers.google.com/style) - The best style guide I've seen since the Sun Style Guide. I'm agitating to get my team to replace the MMoS with this as the place to look for style guidance that doesn't exist in our team's style guide. (contributed by [@carolinakinetic](https://github.com/carolinakinetic))
 * [API Blueprint](https://github.com/apiaryio/api-blueprint) - A powerful high-level API description language for web APIs. (contributed by [@PharkMillups](https://github.com/PharkMillups))
-* [Diátaxis](https://github.com/apiaryio/api-blueprint) - A systematic framework for technical documentation authoring. (contributed by [@matheusfelipeog](https://github.com/matheusfelipeog))
+* [Diátaxis](https://diataxis.fr/) - A systematic framework for technical documentation authoring. (contributed by [@matheusfelipeog](https://github.com/matheusfelipeog))
 
 ### Generating Docs
 
