@@ -73,8 +73,6 @@ This should be updated fairly regularly. As usual, **pull requests are encourage
 * [PostgreSQL](https://www.postgresql.org/docs/current/index.html) - One of the most reliable sets of documentation available. There is rarely a need to go outside the documentation. (contributed by [@dalryan](https://github.com/dalryan))
 * [Svelte](https://svelte.dev/docs/introduction) - Svelte shifts as much work as possible out of the browser and into your build step. No more manual optimisations — just faster, more efficient apps. (contributed by [@0Ared](https://github.com/0Ared/))
 
-
-
 ### Writing about Docs
 
 * [Designing Great API Docs](https://www.pixelstech.net/article/1331352900-Designing-Great-API-Docs) - Blog post by [@jamesyu](https://twitter.com/jamesjyu) about what he/Parse finds essential in API Docs. (contributed by [@hobbyist](https://twitter.com/https://twitter.com/#!/hobbyist))
