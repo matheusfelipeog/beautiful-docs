@@ -124,3 +124,5 @@ This should be updated fairly regularly. As usual, **pull requests are encourage
 * [VuePress](https://vuepress.vuejs.org) - Vue-powered static site generator, simplicity first and performant. (contributed by [matheusfelipeog](https://github.com/matheusfelipeog))
 * [VitePress](https://vitepress.dev/) - VitePress is a Static Site Generator designed for building fast, simple, powerful and content-centric websites. (contributed by [matheusfelipeog](https://github.com/matheusfelipeog))
 * [Mintlify](https://mintlify.com/) - Hosted docs using Markdown and MDX (contributed by [arnehuang](https://github.com/arnehuang))
+* [Docsify](https://docsify.js.org/) - Dynamically converts Markdown files into a static website without a build process, offering customization and smart search features(contributed by [Juan Diaz](https://github.com/JuanPabloDiaz))
+
