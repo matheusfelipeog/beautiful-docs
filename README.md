@@ -125,3 +125,4 @@ This should be updated fairly regularly. As usual, **pull requests are encourage
 * [VitePress](https://vitepress.dev/) - VitePress is a Static Site Generator designed for building fast, simple, powerful and content-centric websites. (contributed by [matheusfelipeog](https://github.com/matheusfelipeog))
 * [Mintlify](https://mintlify.com/) - Hosted docs using Markdown and MDX (contributed by [arnehuang](https://github.com/arnehuang))
 * [Docsify](https://docsify.js.org/) - Dynamically converts Markdown files into a static website without a build process, offering customization and smart search features. (contributed by [Juan Diaz](https://github.com/JuanPabloDiaz))
+* [xyd](https://xyd.dev) Open Source Docs Framework for future dev powered by LiveSession. (contributed by [zdunecki](https://github.com/zdunecki))
