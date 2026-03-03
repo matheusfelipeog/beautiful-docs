@@ -73,7 +73,7 @@ This should be updated fairly regularly. As usual, **pull requests are encourage
 * [Svelte](https://svelte.dev/docs/introduction) - Svelte shifts as much work as possible out of the browser and into your build step. No more manual optimisations — just faster, more efficient apps. (contributed by [@0Ared](https://github.com/0Ared/))
 * [Supabase](https://supabase.com/docs) - Clean, well-organized docs with a sleek design. Covers a wide range of topics from getting started to advanced features, with clear navigation and code examples. (contributed by [tyaga001](https://github.com/tyaga001/))
 * [Neon Postgres Database](https://neon.tech/docs/introduction) - Comprehensive and user-friendly documentation for Neon's serverless Postgres. Features a clear structure, good use of whitespace, and helpful diagrams to explain concepts. (contributed by [tyaga001](https://github.com/tyaga001/))
-* [Ava CMS](https://ava.addy.zone/) - Comprehensive beginner-friendly documentation for a flat-file PHP CMS. Features clear code examples, screenshots, light/dark mode, full text search, interactive headings.  
+* [Ava CMS](https://ava.addy.zone/docs) - Comprehensive beginner-friendly documentation for a flat-file PHP CMS. Features clear code examples, screenshots, light/dark mode, full text search, interactive headings. (contributed by [adamgreenough](https://github.com/adamgreenough))
 
 ### Writing about Docs
 
