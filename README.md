@@ -74,6 +74,7 @@ This should be updated fairly regularly. As usual, **pull requests are encourage
 * [Supabase](https://supabase.com/docs) - Clean, well-organized docs with a sleek design. Covers a wide range of topics from getting started to advanced features, with clear navigation and code examples. (contributed by [tyaga001](https://github.com/tyaga001/))
 * [Neon Postgres Database](https://neon.tech/docs/introduction) - Comprehensive and user-friendly documentation for Neon's serverless Postgres. Features a clear structure, good use of whitespace, and helpful diagrams to explain concepts. (contributed by [tyaga001](https://github.com/tyaga001/))
 * [Ava CMS](https://ava.addy.zone/docs) - Comprehensive beginner-friendly documentation for a flat-file PHP CMS. Features clear code examples, screenshots, light/dark mode, full text search, interactive headings. (contributed by [adamgreenough](https://github.com/adamgreenough))
+* [Xquik API Documentation](https://docs.xquik.com) - REST API documentation for the Xquik X/Twitter automation platform. Built with Mintlify. Covers 40+ API endpoints, MCP server setup, webhook integration, OpenAPI spec, and interactive examples. (contributed by [kriptoburak](https://github.com/kriptoburak))
 
 ### Writing about Docs
 
