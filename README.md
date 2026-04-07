@@ -126,3 +126,4 @@ This should be updated fairly regularly. As usual, **pull requests are encourage
 * [Mintlify](https://mintlify.com/) - Hosted docs using Markdown and MDX (contributed by [arnehuang](https://github.com/arnehuang))
 * [Docsify](https://docsify.js.org/) - Dynamically converts Markdown files into a static website without a build process, offering customization and smart search features. (contributed by [Juan Diaz](https://github.com/JuanPabloDiaz))
 * [xyd](https://xyd.dev) Open Source Docs Framework for future dev powered by LiveSession. (contributed by [zdunecki](https://github.com/zdunecki))
+* [Jamdesk](https://jamdesk.com/) - MDX-based documentation platform with a local CLI, OpenAPI support, AI-powered search, and custom domain hosting. (contributed by [gbourne1](https://github.com/gbourne1))
