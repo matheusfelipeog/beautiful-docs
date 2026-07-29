@@ -22,7 +22,7 @@ This should be updated fairly regularly. As usual, **pull requests are encourage
 * [FreeBSD Handbook](https://docs.freebsd.org/en/books/handbook/) - Clean and direct documentation of an OS. (contributed by [@mrtazz](https://twitter.com/#!/mrtazz))
 * [Ruby on Rails Guides](https://guides.rubyonrails.org/) - (contributed by [@seancribbs](https://twitter.com/#!/seancribbs))
 * [Stripe Documentation](https://stripe.com/docs) and [Full API Documentation](https://stripe.com/docs/api) - Multiple languages, example code, good detail on the API; especially love how the API docs show examples for curl and their supported client libraries. (contributed simultaneously by [@tnm](https://twitter.com/#!/tnm) and [@technoweenie](https://twitter.com/#!/technoweenie))
-* [Librato Developer Docs](https://www.librato.com/docs/api/) - Librato's RESTful API documentation. (contributed by [@josephruscio](https://twitter.com/josephruscio))
+* [Librato Developer Docs (archived)](https://web.archive.org/web/20230606091101/https://www.librato.com/docs/api/) - Archived REST API documentation preserved after the original URL became a product-retirement page. (contributed by [@josephruscio](https://twitter.com/josephruscio))
 * [CoffeeScript](https://coffeescript.org/) - (contributed by [@joedevivo](https://twitter.com/#!/joedevivo))
 * [Why's (Poignant) Guide to Ruby](https://poignant.guide/) - (contributed by [@joedevivo](https://twitter.com/#!/joedevivo))
 * [Twitter Bootstrap](https://getbootstrap.com/) - Documented the project using the project. (contributed by [@kylewest](https://twitter.com/kylewest))
