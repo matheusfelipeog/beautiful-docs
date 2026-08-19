@@ -22,7 +22,7 @@ This should be updated fairly regularly. As usual, **pull requests are encourage
 * [FreeBSD Handbook](https://docs.freebsd.org/en/books/handbook/) - Clean and direct documentation of an OS. (contributed by [@mrtazz](https://twitter.com/#!/mrtazz))
 * [Ruby on Rails Guides](https://guides.rubyonrails.org/) - (contributed by [@seancribbs](https://twitter.com/#!/seancribbs))
 * [Stripe Documentation](https://stripe.com/docs) and [Full API Documentation](https://stripe.com/docs/api) - Multiple languages, example code, good detail on the API; especially love how the API docs show examples for curl and their supported client libraries. (contributed simultaneously by [@tnm](https://twitter.com/#!/tnm) and [@technoweenie](https://twitter.com/#!/technoweenie))
-* [Librato Developer Docs](https://www.librato.com/docs/api/) - Librato's RESTful API documentation. (contributed by [@josephruscio](https://twitter.com/josephruscio))
+* [Librato Developer Docs (archived)](https://web.archive.org/web/20230606091101/https://www.librato.com/docs/api/) - Archived REST API documentation preserved after the original URL became a product-retirement page. (contributed by [@josephruscio](https://twitter.com/josephruscio))
 * [CoffeeScript](https://coffeescript.org/) - (contributed by [@joedevivo](https://twitter.com/#!/joedevivo))
 * [Why's (Poignant) Guide to Ruby](https://poignant.guide/) - (contributed by [@joedevivo](https://twitter.com/#!/joedevivo))
 * [Twitter Bootstrap](https://getbootstrap.com/) - Documented the project using the project. (contributed by [@kylewest](https://twitter.com/kylewest))
@@ -74,6 +74,7 @@ This should be updated fairly regularly. As usual, **pull requests are encourage
 * [Supabase](https://supabase.com/docs) - Clean, well-organized docs with a sleek design. Covers a wide range of topics from getting started to advanced features, with clear navigation and code examples. (contributed by [tyaga001](https://github.com/tyaga001/))
 * [Neon Postgres Database](https://neon.tech/docs/introduction) - Comprehensive and user-friendly documentation for Neon's serverless Postgres. Features a clear structure, good use of whitespace, and helpful diagrams to explain concepts. (contributed by [tyaga001](https://github.com/tyaga001/))
 * [Ava CMS](https://ava.addy.zone/docs) - Comprehensive beginner-friendly documentation for a flat-file PHP CMS. Features clear code examples, screenshots, light/dark mode, full text search, interactive headings. (contributed by [adamgreenough](https://github.com/adamgreenough))
+* [Xquik API Documentation](https://docs.xquik.com/) - Clear REST, webhook, MCP, SDK, and workflow guides with copyable examples. The reference documents authentication, pagination, errors, retries, and the OpenAPI contract. (contributed by [kriptoburak](https://github.com/kriptoburak)) Xquik is an independent third-party service. Not affiliated with X Corp. "Twitter" and "X" are trademarks of X Corp.
 
 ### Writing about Docs
 
