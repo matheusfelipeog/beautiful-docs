@@ -75,6 +75,7 @@ This should be updated fairly regularly. As usual, **pull requests are encourage
 * [Neon Postgres Database](https://neon.tech/docs/introduction) - Comprehensive and user-friendly documentation for Neon's serverless Postgres. Features a clear structure, good use of whitespace, and helpful diagrams to explain concepts. (contributed by [tyaga001](https://github.com/tyaga001/))
 * [Ava CMS](https://ava.addy.zone/docs) - Comprehensive beginner-friendly documentation for a flat-file PHP CMS. Features clear code examples, screenshots, light/dark mode, full text search, interactive headings. (contributed by [adamgreenough](https://github.com/adamgreenough))
 * [Xquik API Documentation](https://docs.xquik.com/) - Clear REST, webhook, MCP, SDK, and workflow guides with copyable examples. The reference documents authentication, pagination, errors, retries, and the OpenAPI contract. (contributed by [kriptoburak](https://github.com/kriptoburak)) Xquik is an independent third-party service. Not affiliated with X Corp. "Twitter" and "X" are trademarks of X Corp.
+* [Bitculator Data API](https://bitculator.com/en/documentation/api/v1) - Crypto market data API reference translated into 27 languages. Every endpoint has copyable cURL, JavaScript, PHP and Python examples, with OpenAPI and Postman downloads, search, and light/dark mode + 8 dirrent SDKs. (contributed by [ObjectAssign](https://github.com/ObjectAssign))
 
 ### Writing about Docs
 
