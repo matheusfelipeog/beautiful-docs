@@ -75,6 +75,7 @@ This should be updated fairly regularly. As usual, **pull requests are encourage
 * [Neon Postgres Database](https://neon.tech/docs/introduction) - Comprehensive and user-friendly documentation for Neon's serverless Postgres. Features a clear structure, good use of whitespace, and helpful diagrams to explain concepts. (contributed by [tyaga001](https://github.com/tyaga001/))
 * [Ava CMS](https://ava.addy.zone/docs) - Comprehensive beginner-friendly documentation for a flat-file PHP CMS. Features clear code examples, screenshots, light/dark mode, full text search, interactive headings. (contributed by [adamgreenough](https://github.com/adamgreenough))
 * [Xquik API Documentation](https://docs.xquik.com/) - Clear REST, webhook, MCP, SDK, and workflow guides with copyable examples. The reference documents authentication, pagination, errors, retries, and the OpenAPI contract. (contributed by [kriptoburak](https://github.com/kriptoburak)) Xquik is an independent third-party service. Not affiliated with X Corp. "Twitter" and "X" are trademarks of X Corp.
+* [SiftingIO API Documentation](https://sifting.io/docs) - Task-based navigation, endpoint-level request/response examples and an in-page REST request runner, with WebSocket guidance alongside. Live calls require an account and API key. (contributed by [Alper San](https://github.com/aprsn), SiftingIO founder)
 
 ### Writing about Docs
 
